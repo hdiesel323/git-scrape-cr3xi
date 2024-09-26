@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: '6,26,46 * * * *' # every twenty minutes
+    - cron: '0 6 * * *' # Run once daily at 06:00 AM UTC
 
 jobs:
   scheduled:
@@ -38,6 +38,8 @@ jobs:
       run: git diff --quiet || echo "Changes detected"
 
     - name: Commit and push if the data has changed
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       if: success()
       run: |-
         git config user.name "Automated"
