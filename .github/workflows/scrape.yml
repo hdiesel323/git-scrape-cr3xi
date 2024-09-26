@@ -12,6 +12,9 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v3
+      with:
+        # This ensures we can push changes back to the repo
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Fetch latest data from Crexi
       run: |-
@@ -39,7 +42,7 @@ jobs:
 
     - name: Commit and push if the data has changed
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # This is essential for pushing
       if: success()
       run: |-
         git config user.name "Automated"
@@ -47,5 +50,4 @@ jobs:
         git add -A
         timestamp=$(date -u)
         git commit -m "Latest data from Crexi: ${timestamp}" || exit 0
-        git push
-
+        git push --force
