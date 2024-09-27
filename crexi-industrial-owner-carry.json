@@ -83,7 +83,7 @@
           "fullAddress": "21825 Nordhoff St, Los Angeles, Los Angeles County, CA 91311"
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": 1571053,
@@ -1003,6 +1003,47 @@
       "isNew": false
     },
     {
+      "id": 754547,
+      "name": "110-200W61stStN -NNNorOwnerLeaseOptionPurchase pob1351@gmail",
+      "description": "Lease Option to Purchase - Great Location - 14 Rollup Doors - 4.3 Acres",
+      "thumbnailUrl": "https://images.crexi.com/assets/754547/693bc2bbef8844dba0031f71a608d0b8_716x444.jpg",
+      "urlSlug": "kansas-110-200-w-61st-st-n",
+      "brokerageName": "GJGroup 88",
+      "activatedOn": "2022-02-05T10:49:24.577Z",
+      "isInOpportunityZone": false,
+      "hasVideo": false,
+      "numberOfGalleryItems": 12,
+      "showCountdownAsDate": false,
+      "askingPrice": 1595000,
+      "userIsAssetOwner": false,
+      "updatedOn": "2024-09-06T14:48:49.42Z",
+      "numberOfImages": 12,
+      "types": [
+        "Industrial"
+      ],
+      "investmentType": "Owner/User",
+      "hasOM": false,
+      "hasFlyer": true,
+      "status": "On-Market",
+      "hasVirtualTour": true,
+      "locations": [
+        {
+          "address": "110 W 61st St N",
+          "city": "Park City",
+          "county": "Sedgwick County",
+          "state": {
+            "code": "KS",
+            "name": "Kansas"
+          },
+          "zip": "67204",
+          "latitude": 37.7967043,
+          "longitude": -97.339234,
+          "fullAddress": "110 W 61st St N, Park City, Sedgwick County, KS 67204"
+        }
+      ],
+      "isNew": false
+    },
+    {
       "id": 1148554,
       "name": "6 Virginia/2 Doug Court",
       "description": "Amazing property for your manufacturing business. Easily convertible to many other uses.",
@@ -1040,47 +1081,6 @@
           "latitude": 46.535609,
           "longitude": -111.946784,
           "fullAddress": "2 Doug Ct, Clancy, Jefferson County, MT 59634"
-        }
-      ],
-      "isNew": false
-    },
-    {
-      "id": 754547,
-      "name": "110-200W61stStN -NNNorOwnerLeaseOptionPurchase pob1351@gmail",
-      "description": "Lease Option to Purchase - Great Location - 14 Rollup Doors - 4.3 Acres",
-      "thumbnailUrl": "https://images.crexi.com/assets/754547/693bc2bbef8844dba0031f71a608d0b8_716x444.jpg",
-      "urlSlug": "kansas-110-200-w-61st-st-n",
-      "brokerageName": "GJGroup 88",
-      "activatedOn": "2022-02-05T10:49:24.577Z",
-      "isInOpportunityZone": false,
-      "hasVideo": false,
-      "numberOfGalleryItems": 12,
-      "showCountdownAsDate": false,
-      "askingPrice": 1595000,
-      "userIsAssetOwner": false,
-      "updatedOn": "2024-09-06T14:48:49.42Z",
-      "numberOfImages": 12,
-      "types": [
-        "Industrial"
-      ],
-      "investmentType": "Owner/User",
-      "hasOM": false,
-      "hasFlyer": true,
-      "status": "On-Market",
-      "hasVirtualTour": true,
-      "locations": [
-        {
-          "address": "110 W 61st St N",
-          "city": "Park City",
-          "county": "Sedgwick County",
-          "state": {
-            "code": "KS",
-            "name": "Kansas"
-          },
-          "zip": "67204",
-          "latitude": 37.7967043,
-          "longitude": -97.339234,
-          "fullAddress": "110 W 61st St N, Park City, Sedgwick County, KS 67204"
         }
       ],
       "isNew": false
@@ -1131,48 +1131,6 @@
       "isNew": false
     },
     {
-      "id": 1613407,
-      "name": "4301 S Robinson Ave",
-      "description": "Retail Industrial Warehouse for Sale",
-      "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
-      "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
-      "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
-      "brokerageName": "Equity Commercial Realty Advisors, LLC",
-      "activatedOn": "2024-07-15T22:34:23.6Z",
-      "isInOpportunityZone": false,
-      "hasVideo": false,
-      "numberOfGalleryItems": 16,
-      "showCountdownAsDate": false,
-      "askingPrice": 390000,
-      "userIsAssetOwner": false,
-      "updatedOn": "2024-09-17T15:10:15.069Z",
-      "numberOfImages": 16,
-      "types": [
-        "Retail",
-        "Industrial"
-      ],
-      "hasOM": false,
-      "hasFlyer": true,
-      "status": "On-Market",
-      "hasVirtualTour": false,
-      "locations": [
-        {
-          "address": "4301 S Robinson Ave",
-          "city": "Oklahoma City",
-          "county": "Oklahoma County",
-          "state": {
-            "code": "OK",
-            "name": "Oklahoma"
-          },
-          "zip": "73109",
-          "latitude": 35.42272311621037,
-          "longitude": -97.5162203952987,
-          "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
-        }
-      ],
-      "isNew": false
-    },
-    {
       "id": 1144084,
       "name": "Magdalena Storage (Creative Financing)",
       "description": "Price Reduction | Creative Financing Available",
@@ -1212,6 +1170,48 @@
           "latitude": 34.10314179,
           "longitude": -107.25784236,
           "fullAddress": "4079 NM-107, Magdalena, Socorro County, NM 87825"
+        }
+      ],
+      "isNew": false
+    },
+    {
+      "id": 1613407,
+      "name": "4301 S Robinson Ave",
+      "description": "Retail Industrial Warehouse for Sale",
+      "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
+      "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
+      "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
+      "brokerageName": "Equity Commercial Realty Advisors, LLC",
+      "activatedOn": "2024-07-15T22:34:23.6Z",
+      "isInOpportunityZone": false,
+      "hasVideo": false,
+      "numberOfGalleryItems": 16,
+      "showCountdownAsDate": false,
+      "askingPrice": 390000,
+      "userIsAssetOwner": false,
+      "updatedOn": "2024-09-17T15:10:15.069Z",
+      "numberOfImages": 16,
+      "types": [
+        "Retail",
+        "Industrial"
+      ],
+      "hasOM": false,
+      "hasFlyer": true,
+      "status": "On-Market",
+      "hasVirtualTour": false,
+      "locations": [
+        {
+          "address": "4301 S Robinson Ave",
+          "city": "Oklahoma City",
+          "county": "Oklahoma County",
+          "state": {
+            "code": "OK",
+            "name": "Oklahoma"
+          },
+          "zip": "73109",
+          "latitude": 35.42272311621037,
+          "longitude": -97.5162203952987,
+          "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
         }
       ],
       "isNew": false
@@ -1302,6 +1302,47 @@
       "isNew": false
     },
     {
+      "id": 565659,
+      "name": "1091 Viva Way",
+      "description": "±5 ACRE GREENHOUSE PROPERTY IN PREMIER CENTRAL COAST MICROCLIMATE",
+      "thumbnailUrl": "https://images.crexi.com/assets/565659/89b03cb786de4efc9d0bee9805fbc086_716x444.jpg",
+      "urlSlug": "california-1091-viva-way",
+      "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/27574/7c46103ada574b038b844d01be2ae8a4_150x100_resize.jpg",
+      "brokerageName": "Hart Commercial Real Estate",
+      "activatedOn": "2021-03-03T22:08:33.076Z",
+      "isInOpportunityZone": false,
+      "hasVideo": false,
+      "numberOfGalleryItems": 4,
+      "showCountdownAsDate": false,
+      "askingPrice": 890000,
+      "userIsAssetOwner": false,
+      "updatedOn": "2024-09-12T17:43:20.921Z",
+      "numberOfImages": 4,
+      "types": [
+        "Industrial"
+      ],
+      "hasOM": false,
+      "hasFlyer": true,
+      "status": "On-Market",
+      "hasVirtualTour": false,
+      "locations": [
+        {
+          "address": "1091 Viva Way",
+          "city": "Nipomo",
+          "county": "San Luis Obispo County",
+          "state": {
+            "code": "CA",
+            "name": "California"
+          },
+          "zip": "93444",
+          "latitude": 35.031812,
+          "longitude": -120.5376354,
+          "fullAddress": "1091 Viva Way, Nipomo, San Luis Obispo County, CA 93444"
+        }
+      ],
+      "isNew": false
+    },
+    {
       "id": 1662436,
       "name": "5214 George Washington Memorial Highway",
       "description": "Pizza Business For Sale | 2,142 SF",
@@ -1339,47 +1380,6 @@
           "latitude": 37.158253,
           "longitude": -76.461038,
           "fullAddress": "5214 George Washington Memorial Hwy, Yorktown, York County, VA 23692"
-        }
-      ],
-      "isNew": false
-    },
-    {
-      "id": 565659,
-      "name": "1091 Viva Way",
-      "description": "±5 ACRE GREENHOUSE PROPERTY IN PREMIER CENTRAL COAST MICROCLIMATE",
-      "thumbnailUrl": "https://images.crexi.com/assets/565659/89b03cb786de4efc9d0bee9805fbc086_716x444.jpg",
-      "urlSlug": "california-1091-viva-way",
-      "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/27574/7c46103ada574b038b844d01be2ae8a4_150x100_resize.jpg",
-      "brokerageName": "Hart Commercial Real Estate",
-      "activatedOn": "2021-03-03T22:08:33.076Z",
-      "isInOpportunityZone": false,
-      "hasVideo": false,
-      "numberOfGalleryItems": 4,
-      "showCountdownAsDate": false,
-      "askingPrice": 890000,
-      "userIsAssetOwner": false,
-      "updatedOn": "2024-09-12T17:43:20.921Z",
-      "numberOfImages": 4,
-      "types": [
-        "Industrial"
-      ],
-      "hasOM": false,
-      "hasFlyer": true,
-      "status": "On-Market",
-      "hasVirtualTour": false,
-      "locations": [
-        {
-          "address": "1091 Viva Way",
-          "city": "Nipomo",
-          "county": "San Luis Obispo County",
-          "state": {
-            "code": "CA",
-            "name": "California"
-          },
-          "zip": "93444",
-          "latitude": 35.031812,
-          "longitude": -120.5376354,
-          "fullAddress": "1091 Viva Way, Nipomo, San Luis Obispo County, CA 93444"
         }
       ],
       "isNew": false
@@ -1831,41 +1831,43 @@
       "isNew": false
     },
     {
-      "id": 1517295,
-      "name": "Ringe Land",
-      "description": "Industrial | 1,700 SF. M-1",
-      "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
-      "urlSlug": "nevada-ringe-land",
-      "brokerageName": "Sandra L. Fink & Associates Inc",
-      "activatedOn": "2024-04-23T18:53:19.6Z",
+      "id": 1510168,
+      "name": "625 Miller Valley Road",
+      "description": "Retail End User and/or Investment Opportunity",
+      "thumbnailUrl": "https://images.crexi.com/assets/1510168/0d0fbfeb421e4663838ec75adbe11c7d_716x444.jpg",
+      "urlSlug": "arizona-625-miller-valley-road",
+      "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/23807/59106f86f05643378f90e05bc4865312_150x100_resize.jpg",
+      "brokerageName": "Better Homes and Gardens BloomTree Realty",
+      "activatedOn": "2024-04-16T12:56:44.934Z",
       "isInOpportunityZone": false,
       "hasVideo": false,
-      "numberOfGalleryItems": 7,
-      "pricePerAcreLand": "$0/Acre",
+      "numberOfGalleryItems": 11,
       "showCountdownAsDate": false,
+      "askingPrice": 600000,
       "userIsAssetOwner": false,
-      "updatedOn": "2024-08-13T18:36:48.764Z",
-      "numberOfImages": 7,
+      "updatedOn": "2024-07-24T04:19:10.586Z",
+      "numberOfImages": 11,
       "types": [
+        "Retail",
         "Industrial"
       ],
-      "hasOM": true,
+      "hasOM": false,
       "hasFlyer": true,
       "status": "On-Market",
       "hasVirtualTour": false,
       "locations": [
         {
-          "address": "2929 Ringe Ln",
-          "city": "Las Vegas",
-          "county": "Clark County",
+          "address": "625 Miller Valley Road",
+          "city": "Prescott",
+          "county": "Yavapai County",
           "state": {
-            "code": "NV",
-            "name": "Nevada"
+            "code": "AZ",
+            "name": "Arizona"
           },
-          "zip": "89156",
-          "latitude": 36.213209,
-          "longitude": -115.060594,
-          "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
+          "zip": "86301",
+          "latitude": 34.5525563,
+          "longitude": -112.4797855,
+          "fullAddress": "625 Miller Valley Road, Prescott, Yavapai County, AZ 86301"
         }
       ],
       "isNew": false
@@ -1913,43 +1915,41 @@
       "isNew": false
     },
     {
-      "id": 1510168,
-      "name": "625 Miller Valley Road",
-      "description": "Retail End User and/or Investment Opportunity",
-      "thumbnailUrl": "https://images.crexi.com/assets/1510168/0d0fbfeb421e4663838ec75adbe11c7d_716x444.jpg",
-      "urlSlug": "arizona-625-miller-valley-road",
-      "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/23807/59106f86f05643378f90e05bc4865312_150x100_resize.jpg",
-      "brokerageName": "Better Homes and Gardens BloomTree Realty",
-      "activatedOn": "2024-04-16T12:56:44.934Z",
+      "id": 1517295,
+      "name": "Ringe Land",
+      "description": "Industrial | 1,700 SF. M-1",
+      "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
+      "urlSlug": "nevada-ringe-land",
+      "brokerageName": "Sandra L. Fink & Associates Inc",
+      "activatedOn": "2024-04-23T18:53:19.6Z",
       "isInOpportunityZone": false,
       "hasVideo": false,
-      "numberOfGalleryItems": 11,
+      "numberOfGalleryItems": 7,
+      "pricePerAcreLand": "$0/Acre",
       "showCountdownAsDate": false,
-      "askingPrice": 600000,
       "userIsAssetOwner": false,
-      "updatedOn": "2024-07-24T04:19:10.586Z",
-      "numberOfImages": 11,
+      "updatedOn": "2024-08-13T18:36:48.764Z",
+      "numberOfImages": 7,
       "types": [
-        "Retail",
         "Industrial"
       ],
-      "hasOM": false,
+      "hasOM": true,
       "hasFlyer": true,
       "status": "On-Market",
       "hasVirtualTour": false,
       "locations": [
         {
-          "address": "625 Miller Valley Road",
-          "city": "Prescott",
-          "county": "Yavapai County",
+          "address": "2929 Ringe Ln",
+          "city": "Las Vegas",
+          "county": "Clark County",
           "state": {
-            "code": "AZ",
-            "name": "Arizona"
+            "code": "NV",
+            "name": "Nevada"
           },
-          "zip": "86301",
-          "latitude": 34.5525563,
-          "longitude": -112.4797855,
-          "fullAddress": "625 Miller Valley Road, Prescott, Yavapai County, AZ 86301"
+          "zip": "89156",
+          "latitude": 36.213209,
+          "longitude": -115.060594,
+          "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
         }
       ],
       "isNew": false
