@@ -212,50 +212,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1208952/idaho-12870-go-way-ave-tyhee-industrial-park"
 }
 {
-  "id": 1325344,
-  "name": "11860 Kemper Road 7",
-  "description": "Special Purpose | 1,350 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
-  "urlSlug": "california-11860-kemper-road-7",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty",
-  "activatedOn": "2024-08-31T10:03:09.905Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 8,
-  "showCountdownAsDate": false,
-  "askingPrice": 500000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-06T10:19:51.619Z",
-  "numberOfImages": 8,
-  "types": [
-    "Special Purpose",
-    "Industrial",
-    "Land"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "11860 Kemper Road 7",
-      "city": "Auburn",
-      "county": "Placer County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "95603",
-      "latitude": 38.9307359,
-      "longitude": -121.0915371,
-      "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1325344/california-11860-kemper-road-7"
-}
-{
   "id": 1325345,
   "name": "11860 Kemper Road 8",
   "description": "Special Purpose | 1,483 SF",
@@ -298,6 +254,50 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1325345/california-11860-kemper-road-8"
+}
+{
+  "id": 1325344,
+  "name": "11860 Kemper Road 7",
+  "description": "Special Purpose | 1,350 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
+  "urlSlug": "california-11860-kemper-road-7",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty",
+  "activatedOn": "2024-08-31T10:03:09.905Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 8,
+  "showCountdownAsDate": false,
+  "askingPrice": 500000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-06T10:19:51.619Z",
+  "numberOfImages": 8,
+  "types": [
+    "Special Purpose",
+    "Industrial",
+    "Land"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "11860 Kemper Road 7",
+      "city": "Auburn",
+      "county": "Placer County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "95603",
+      "latitude": 38.9307359,
+      "longitude": -121.0915371,
+      "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1325344/california-11860-kemper-road-7"
 }
 {
   "id": 793663,
@@ -769,49 +769,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1296394/california-terra-bella---industrial---parcel-2"
 }
 {
-  "id": 1094534,
-  "name": "3895 E 45th Ave",
-  "description": "Industrial | 3,840 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
-  "urlSlug": "colorado-3895-e-45th-ave",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
-  "brokerageName": "Unique Properties, Inc",
-  "activatedOn": "2023-04-10T21:23:43.81Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 8,
-  "showCountdownAsDate": false,
-  "askingPrice": 949000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-23T20:34:11.632Z",
-  "numberOfImages": 8,
-  "types": [
-    "Industrial"
-  ],
-  "investmentType": "Owner/User",
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "3895 E 45th Ave",
-      "city": "Denver",
-      "county": "Denver County",
-      "state": {
-        "code": "CO",
-        "name": "Colorado"
-      },
-      "zip": "80216",
-      "latitude": 39.77889341,
-      "longitude": -104.94227107,
-      "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1094534/colorado-3895-e-45th-ave"
-}
-{
   "id": 1606201,
   "name": "4802 Derrick Drive",
   "description": "Retail | 1,230 SF",
@@ -853,6 +810,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1606201/texas-4802-derrick-drive"
+}
+{
+  "id": 1094534,
+  "name": "3895 E 45th Ave",
+  "description": "Industrial | 3,840 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
+  "urlSlug": "colorado-3895-e-45th-ave",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
+  "brokerageName": "Unique Properties, Inc",
+  "activatedOn": "2023-04-10T21:23:43.81Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 8,
+  "showCountdownAsDate": false,
+  "askingPrice": 949000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-23T20:34:11.632Z",
+  "numberOfImages": 8,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "3895 E 45th Ave",
+      "city": "Denver",
+      "county": "Denver County",
+      "state": {
+        "code": "CO",
+        "name": "Colorado"
+      },
+      "zip": "80216",
+      "latitude": 39.77889341,
+      "longitude": -104.94227107,
+      "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1094534/colorado-3895-e-45th-ave"
 }
 {
   "id": 343566,
@@ -898,49 +898,6 @@
   "propertyUrl": "https://www.crexi.com/properties/343566/colorado-1865-1877-s-acoma-street"
 }
 {
-  "id": 1533426,
-  "name": "3870-3880 Elm Street",
-  "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
-  "thumbnailUrl": "https://images.crexi.com/assets/1533426/241c59a81fe3405eb47c685f7dfd8d8a_716x444.jpg",
-  "urlSlug": "colorado-3870-3880-elm-street",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14104/58cb1b8a5ea2489c8655a004cf71e66f_150x100_resize.jpg",
-  "brokerageName": "Colliers International Denver",
-  "activatedOn": "2024-05-16T14:24:06.221Z",
-  "isInOpportunityZone": true,
-  "hasVideo": false,
-  "numberOfGalleryItems": 1,
-  "showCountdownAsDate": false,
-  "askingPrice": 2590000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-07T16:02:13.841Z",
-  "numberOfImages": 1,
-  "types": [
-    "Industrial"
-  ],
-  "investmentType": "Owner/User",
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "3870 Elm St",
-      "city": "Denver",
-      "county": "Denver County",
-      "state": {
-        "code": "CO",
-        "name": "Colorado"
-      },
-      "zip": "80207",
-      "latitude": 39.77095622022864,
-      "longitude": -104.92935990171715,
-      "fullAddress": "3870 Elm St, Denver, Denver County, CO 80207"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1533426/colorado-3870-3880-elm-street"
-}
-{
   "id": 1581599,
   "name": "1055 Empire Dr",
   "description": "Office | 16,792 SF",
@@ -982,6 +939,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1581599/arizona-1055-empire-dr"
+}
+{
+  "id": 1533426,
+  "name": "3870-3880 Elm Street",
+  "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
+  "thumbnailUrl": "https://images.crexi.com/assets/1533426/241c59a81fe3405eb47c685f7dfd8d8a_716x444.jpg",
+  "urlSlug": "colorado-3870-3880-elm-street",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14104/58cb1b8a5ea2489c8655a004cf71e66f_150x100_resize.jpg",
+  "brokerageName": "Colliers International Denver",
+  "activatedOn": "2024-05-16T14:24:06.221Z",
+  "isInOpportunityZone": true,
+  "hasVideo": false,
+  "numberOfGalleryItems": 1,
+  "showCountdownAsDate": false,
+  "askingPrice": 2590000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-07T16:02:13.841Z",
+  "numberOfImages": 1,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "3870 Elm St",
+      "city": "Denver",
+      "county": "Denver County",
+      "state": {
+        "code": "CO",
+        "name": "Colorado"
+      },
+      "zip": "80207",
+      "latitude": 39.77095622022864,
+      "longitude": -104.92935990171715,
+      "fullAddress": "3870 Elm St, Denver, Denver County, CO 80207"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1533426/colorado-3870-3880-elm-street"
 }
 {
   "id": 969147,
@@ -1199,6 +1199,49 @@
   "propertyUrl": "https://www.crexi.com/properties/1613407/oklahoma-retail-industrial-warehouse-for-sale"
 }
 {
+  "id": 1647286,
+  "name": "28 Acres Heavy Industrial",
+  "description": "Largest Heavy Industrial property available in Crook County",
+  "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
+  "urlSlug": "oregon-28-acres-heavy-industrial",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
+  "brokerageName": "Crook County Properties LLC",
+  "activatedOn": "2024-08-16T16:53:24.034Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 9,
+  "showCountdownAsDate": false,
+  "askingPrice": 980000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-17T16:09:53.312Z",
+  "numberOfImages": 9,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "606 NW Lamonta Rd",
+      "city": "Prineville",
+      "county": "Crook County",
+      "state": {
+        "code": "OR",
+        "name": "Oregon"
+      },
+      "zip": "97754",
+      "latitude": 44.33854782257441,
+      "longitude": -120.88660370549526,
+      "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1647286/oregon-28-acres-heavy-industrial"
+}
+{
   "id": 1560289,
   "name": "1589 Highway 33",
   "description": "Special Purpose | 6,800 SF",
@@ -1243,47 +1286,46 @@
   "propertyUrl": "https://www.crexi.com/properties/1560289/california-1589-highway-33"
 }
 {
-  "id": 1647286,
-  "name": "28 Acres Heavy Industrial",
-  "description": "Largest Heavy Industrial property available in Crook County",
-  "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
-  "urlSlug": "oregon-28-acres-heavy-industrial",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
-  "brokerageName": "Crook County Properties LLC",
-  "activatedOn": "2024-08-16T16:53:24.034Z",
+  "id": 565659,
+  "name": "1091 Viva Way",
+  "description": "±5 ACRE GREENHOUSE PROPERTY IN PREMIER CENTRAL COAST MICROCLIMATE",
+  "thumbnailUrl": "https://images.crexi.com/assets/565659/89b03cb786de4efc9d0bee9805fbc086_716x444.jpg",
+  "urlSlug": "california-1091-viva-way",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/27574/7c46103ada574b038b844d01be2ae8a4_150x100_resize.jpg",
+  "brokerageName": "Hart Commercial Real Estate",
+  "activatedOn": "2021-03-03T22:08:33.076Z",
   "isInOpportunityZone": false,
   "hasVideo": false,
-  "numberOfGalleryItems": 9,
+  "numberOfGalleryItems": 4,
   "showCountdownAsDate": false,
-  "askingPrice": 980000,
+  "askingPrice": 890000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-09-17T16:09:53.312Z",
-  "numberOfImages": 9,
+  "updatedOn": "2024-09-12T17:43:20.921Z",
+  "numberOfImages": 4,
   "types": [
     "Industrial"
   ],
-  "investmentType": "Owner/User",
   "hasOM": false,
   "hasFlyer": true,
   "status": "On-Market",
   "hasVirtualTour": false,
   "locations": [
     {
-      "address": "606 NW Lamonta Rd",
-      "city": "Prineville",
-      "county": "Crook County",
+      "address": "1091 Viva Way",
+      "city": "Nipomo",
+      "county": "San Luis Obispo County",
       "state": {
-        "code": "OR",
-        "name": "Oregon"
+        "code": "CA",
+        "name": "California"
       },
-      "zip": "97754",
-      "latitude": 44.33854782257441,
-      "longitude": -120.88660370549526,
-      "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
+      "zip": "93444",
+      "latitude": 35.031812,
+      "longitude": -120.5376354,
+      "fullAddress": "1091 Viva Way, Nipomo, San Luis Obispo County, CA 93444"
     }
   ],
   "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1647286/oregon-28-acres-heavy-industrial"
+  "propertyUrl": "https://www.crexi.com/properties/565659/california-1091-viva-way"
 }
 {
   "id": 1662436,
@@ -1327,48 +1369,6 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1662436/virginia-5214-george-washington-memorial-highway"
-}
-{
-  "id": 565659,
-  "name": "1091 Viva Way",
-  "description": "±5 ACRE GREENHOUSE PROPERTY IN PREMIER CENTRAL COAST MICROCLIMATE",
-  "thumbnailUrl": "https://images.crexi.com/assets/565659/89b03cb786de4efc9d0bee9805fbc086_716x444.jpg",
-  "urlSlug": "california-1091-viva-way",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/27574/7c46103ada574b038b844d01be2ae8a4_150x100_resize.jpg",
-  "brokerageName": "Hart Commercial Real Estate",
-  "activatedOn": "2021-03-03T22:08:33.076Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 4,
-  "showCountdownAsDate": false,
-  "askingPrice": 890000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-12T17:43:20.921Z",
-  "numberOfImages": 4,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "1091 Viva Way",
-      "city": "Nipomo",
-      "county": "San Luis Obispo County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "93444",
-      "latitude": 35.031812,
-      "longitude": -120.5376354,
-      "fullAddress": "1091 Viva Way, Nipomo, San Luis Obispo County, CA 93444"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/565659/california-1091-viva-way"
 }
 {
   "id": 1555212,
@@ -1782,49 +1782,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1470041/colorado-287-27-road-units-1-5-developable-land-for-sale"
 }
 {
-  "id": 1643870,
-  "name": "Collins Drive",
-  "description": "Land",
-  "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
-  "urlSlug": "california-collins-drive",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty",
-  "activatedOn": "2024-08-13T10:03:18.061Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 26,
-  "showCountdownAsDate": false,
-  "askingPrice": 649000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-19T10:02:26.223Z",
-  "numberOfImages": 26,
-  "types": [
-    "Land",
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "Collins Drive",
-      "city": "Auburn",
-      "county": "Placer County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "95603",
-      "latitude": 38.9057643,
-      "longitude": -121.086736,
-      "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
-}
-{
   "id": 1145218,
   "name": "Eaton Park - Commissary Kitchen",
   "description": "Fully Built out Commissary Kitchen with large walk-in, 12' hood and mezzanine and second unit.",
@@ -1950,6 +1907,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
+}
+{
+  "id": 1643870,
+  "name": "Collins Drive",
+  "description": "Land",
+  "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
+  "urlSlug": "california-collins-drive",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty",
+  "activatedOn": "2024-08-13T10:03:18.061Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 26,
+  "showCountdownAsDate": false,
+  "askingPrice": 649000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-19T10:02:26.223Z",
+  "numberOfImages": 26,
+  "types": [
+    "Land",
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "Collins Drive",
+      "city": "Auburn",
+      "county": "Placer County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "95603",
+      "latitude": 38.9057643,
+      "longitude": -121.086736,
+      "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
 }
 {
   "id": 1582316,
