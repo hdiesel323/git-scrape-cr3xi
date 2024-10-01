@@ -685,48 +685,6 @@
   "propertyUrl": "https://www.crexi.com/properties/804694/oklahoma-311-se-11th-street"
 }
 {
-  "id": 1553485,
-  "name": "2965 Coleman Street",
-  "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
-  "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
-  "urlSlug": "nevada-2965-coleman-street",
-  "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
-  "brokerageName": "CBRE Las Vegas",
-  "activatedOn": "2024-06-05T23:32:05.482Z",
-  "isInOpportunityZone": true,
-  "hasVideo": false,
-  "numberOfGalleryItems": 8,
-  "showCountdownAsDate": false,
-  "askingPrice": 4000000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-06T22:32:40.041Z",
-  "numberOfImages": 8,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "2965 Coleman St",
-      "city": "North Las Vegas",
-      "county": "Clark County",
-      "state": {
-        "code": "NV",
-        "name": "Nevada"
-      },
-      "zip": "89032",
-      "latitude": 36.2133026,
-      "longitude": -115.1752522,
-      "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1553485/nevada-2965-coleman-street"
-}
-{
   "id": 1296394,
   "name": "Terra Bella - Industrial - Parcel 2",
   "description": "Industrial",
@@ -767,6 +725,48 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1296394/california-terra-bella---industrial---parcel-2"
+}
+{
+  "id": 1553485,
+  "name": "2965 Coleman Street",
+  "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
+  "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
+  "urlSlug": "nevada-2965-coleman-street",
+  "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
+  "brokerageName": "CBRE Las Vegas",
+  "activatedOn": "2024-06-05T23:32:05.482Z",
+  "isInOpportunityZone": true,
+  "hasVideo": false,
+  "numberOfGalleryItems": 8,
+  "showCountdownAsDate": false,
+  "askingPrice": 4000000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-06T22:32:40.041Z",
+  "numberOfImages": 8,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "2965 Coleman St",
+      "city": "North Las Vegas",
+      "county": "Clark County",
+      "state": {
+        "code": "NV",
+        "name": "Nevada"
+      },
+      "zip": "89032",
+      "latitude": 36.2133026,
+      "longitude": -115.1752522,
+      "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1553485/nevada-2965-coleman-street"
 }
 {
   "id": 1606201,
@@ -898,49 +898,6 @@
   "propertyUrl": "https://www.crexi.com/properties/343566/colorado-1865-1877-s-acoma-street"
 }
 {
-  "id": 1581599,
-  "name": "1055 Empire Dr",
-  "description": "Office | 16,792 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1581599/6280ecd0292c4cb0acf6d2d737c215db_716x444.jpg",
-  "urlSlug": "arizona-1055-empire-dr",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/51411/24ecb0de32134136877dec587fe1eb4d_150x100_resize.jpg",
-  "brokerageName": "Realty One Group Mountain Desert Lake Havasu City",
-  "activatedOn": "2024-07-08T14:58:58.577Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 117,
-  "showCountdownAsDate": false,
-  "askingPrice": 1800000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-07-09T05:10:27.037Z",
-  "numberOfImages": 117,
-  "types": [
-    "Office",
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "1055 Empire Dr",
-      "city": "Lake Havasu City",
-      "county": "Mohave County",
-      "state": {
-        "code": "AZ",
-        "name": "Arizona"
-      },
-      "zip": "86404",
-      "latitude": 34.505008,
-      "longitude": -114.3549243,
-      "fullAddress": "1055 Empire Dr, Lake Havasu City, Mohave County, AZ 86404"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1581599/arizona-1055-empire-dr"
-}
-{
   "id": 1533426,
   "name": "3870-3880 Elm Street",
   "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
@@ -982,6 +939,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1533426/colorado-3870-3880-elm-street"
+}
+{
+  "id": 1581599,
+  "name": "1055 Empire Dr",
+  "description": "Office | 16,792 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1581599/6280ecd0292c4cb0acf6d2d737c215db_716x444.jpg",
+  "urlSlug": "arizona-1055-empire-dr",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/51411/24ecb0de32134136877dec587fe1eb4d_150x100_resize.jpg",
+  "brokerageName": "Realty One Group Mountain Desert Lake Havasu City",
+  "activatedOn": "2024-07-08T14:58:58.577Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 117,
+  "showCountdownAsDate": false,
+  "askingPrice": 1800000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-07-09T05:10:27.037Z",
+  "numberOfImages": 117,
+  "types": [
+    "Office",
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "1055 Empire Dr",
+      "city": "Lake Havasu City",
+      "county": "Mohave County",
+      "state": {
+        "code": "AZ",
+        "name": "Arizona"
+      },
+      "zip": "86404",
+      "latitude": 34.505008,
+      "longitude": -114.3549243,
+      "fullAddress": "1055 Empire Dr, Lake Havasu City, Mohave County, AZ 86404"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1581599/arizona-1055-empire-dr"
 }
 {
   "id": 969147,
@@ -1284,48 +1284,6 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1560289/california-1589-highway-33"
-}
-{
-  "id": 565659,
-  "name": "1091 Viva Way",
-  "description": "±5 ACRE GREENHOUSE PROPERTY IN PREMIER CENTRAL COAST MICROCLIMATE",
-  "thumbnailUrl": "https://images.crexi.com/assets/565659/89b03cb786de4efc9d0bee9805fbc086_716x444.jpg",
-  "urlSlug": "california-1091-viva-way",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/27574/7c46103ada574b038b844d01be2ae8a4_150x100_resize.jpg",
-  "brokerageName": "Hart Commercial Real Estate",
-  "activatedOn": "2021-03-03T22:08:33.076Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 4,
-  "showCountdownAsDate": false,
-  "askingPrice": 890000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-12T17:43:20.921Z",
-  "numberOfImages": 4,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "1091 Viva Way",
-      "city": "Nipomo",
-      "county": "San Luis Obispo County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "93444",
-      "latitude": 35.031812,
-      "longitude": -120.5376354,
-      "fullAddress": "1091 Viva Way, Nipomo, San Luis Obispo County, CA 93444"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/565659/california-1091-viva-way"
 }
 {
   "id": 1662436,
@@ -1782,92 +1740,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1470041/colorado-287-27-road-units-1-5-developable-land-for-sale"
 }
 {
-  "id": 1145218,
-  "name": "Eaton Park - Commissary Kitchen",
-  "description": "Fully Built out Commissary Kitchen with large walk-in, 12' hood and mezzanine and second unit.",
-  "thumbnailUrl": "https://images.crexi.com/assets/1145218/dc9da6f200204f95ae7d0e3b7f5034a2_716x444.jpg",
-  "urlSlug": "arizona-eaton-park",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/12993/e718917e7e454660ba0ceb34e367d04a_150x100_resize.jpg",
-  "brokerageName": "SVN | Desert Commercial Advisors",
-  "activatedOn": "2023-05-22T22:00:50.806Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 30,
-  "showCountdownAsDate": false,
-  "askingPrice": 1500000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-07T18:23:29.602Z",
-  "numberOfImages": 30,
-  "types": [
-    "Industrial"
-  ],
-  "investmentType": "Owner/User",
-  "hasOM": true,
-  "hasFlyer": false,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "7900 N 70th Ave",
-      "city": "Glendale",
-      "county": "Maricopa County",
-      "state": {
-        "code": "AZ",
-        "name": "Arizona"
-      },
-      "zip": "85303",
-      "latitude": 33.5514948,
-      "longitude": -112.2101716,
-      "fullAddress": "7900 N 70th Ave, Glendale, Maricopa County, AZ 85303"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1145218/arizona-eaton-park"
-}
-{
-  "id": 1510168,
-  "name": "625 Miller Valley Road",
-  "description": "Retail End User and/or Investment Opportunity",
-  "thumbnailUrl": "https://images.crexi.com/assets/1510168/0d0fbfeb421e4663838ec75adbe11c7d_716x444.jpg",
-  "urlSlug": "arizona-625-miller-valley-road",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/23807/59106f86f05643378f90e05bc4865312_150x100_resize.jpg",
-  "brokerageName": "Better Homes and Gardens BloomTree Realty",
-  "activatedOn": "2024-04-16T12:56:44.934Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 11,
-  "showCountdownAsDate": false,
-  "askingPrice": 600000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-07-24T04:19:10.586Z",
-  "numberOfImages": 11,
-  "types": [
-    "Retail",
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "625 Miller Valley Road",
-      "city": "Prescott",
-      "county": "Yavapai County",
-      "state": {
-        "code": "AZ",
-        "name": "Arizona"
-      },
-      "zip": "86301",
-      "latitude": 34.5525563,
-      "longitude": -112.4797855,
-      "fullAddress": "625 Miller Valley Road, Prescott, Yavapai County, AZ 86301"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1510168/arizona-625-miller-valley-road"
-}
-{
   "id": 1517295,
   "name": "Ringe Land",
   "description": "Industrial | 1,700 SF. M-1",
@@ -1907,6 +1779,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
+}
+{
+  "id": 1145218,
+  "name": "Eaton Park - Commissary Kitchen",
+  "description": "Fully Built out Commissary Kitchen with large walk-in, 12' hood and mezzanine and second unit.",
+  "thumbnailUrl": "https://images.crexi.com/assets/1145218/dc9da6f200204f95ae7d0e3b7f5034a2_716x444.jpg",
+  "urlSlug": "arizona-eaton-park",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/12993/e718917e7e454660ba0ceb34e367d04a_150x100_resize.jpg",
+  "brokerageName": "SVN | Desert Commercial Advisors",
+  "activatedOn": "2023-05-22T22:00:50.806Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 30,
+  "showCountdownAsDate": false,
+  "askingPrice": 1500000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-30T17:50:41.6Z",
+  "numberOfImages": 30,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": true,
+  "hasFlyer": false,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "7900 N 70th Ave",
+      "city": "Glendale",
+      "county": "Maricopa County",
+      "state": {
+        "code": "AZ",
+        "name": "Arizona"
+      },
+      "zip": "85303",
+      "latitude": 33.5514948,
+      "longitude": -112.2101716,
+      "fullAddress": "7900 N 70th Ave, Glendale, Maricopa County, AZ 85303"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1145218/arizona-eaton-park"
 }
 {
   "id": 1643870,
@@ -1950,6 +1865,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
+}
+{
+  "id": 1510168,
+  "name": "625 Miller Valley Road",
+  "description": "Retail End User and/or Investment Opportunity",
+  "thumbnailUrl": "https://images.crexi.com/assets/1510168/0d0fbfeb421e4663838ec75adbe11c7d_716x444.jpg",
+  "urlSlug": "arizona-625-miller-valley-road",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/23807/59106f86f05643378f90e05bc4865312_150x100_resize.jpg",
+  "brokerageName": "Better Homes and Gardens BloomTree Realty",
+  "activatedOn": "2024-04-16T12:56:44.934Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 11,
+  "showCountdownAsDate": false,
+  "askingPrice": 600000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-07-24T04:19:10.586Z",
+  "numberOfImages": 11,
+  "types": [
+    "Retail",
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "625 Miller Valley Road",
+      "city": "Prescott",
+      "county": "Yavapai County",
+      "state": {
+        "code": "AZ",
+        "name": "Arizona"
+      },
+      "zip": "86301",
+      "latitude": 34.5525563,
+      "longitude": -112.4797855,
+      "fullAddress": "625 Miller Valley Road, Prescott, Yavapai County, AZ 86301"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1510168/arizona-625-miller-valley-road"
 }
 {
   "id": 1582316,
