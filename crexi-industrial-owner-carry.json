@@ -212,50 +212,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1208952/idaho-12870-go-way-ave-tyhee-industrial-park"
 }
 {
-  "id": 1325345,
-  "name": "11860 Kemper Road 8",
-  "description": "Special Purpose | 1,483 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1325345/2d4c054d4b224cd385c548a433aace57_716x444.jpg",
-  "urlSlug": "california-11860-kemper-road-8",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-  "activatedOn": "2024-09-03T10:01:21.962Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 7,
-  "showCountdownAsDate": false,
-  "askingPrice": 420000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-06T10:19:51.221Z",
-  "numberOfImages": 7,
-  "types": [
-    "Special Purpose",
-    "Industrial",
-    "Land"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "11860 Kemper Road 8",
-      "city": "Auburn",
-      "county": "Placer County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "95603",
-      "latitude": 38.9308072,
-      "longitude": -121.0915333,
-      "fullAddress": "11860 Kemper Road 8, Auburn, Placer County, CA 95603"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1325345/california-11860-kemper-road-8"
-}
-{
   "id": 1325344,
   "name": "11860 Kemper Road 7",
   "description": "Special Purpose | 1,350 SF",
@@ -298,6 +254,50 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1325344/california-11860-kemper-road-7"
+}
+{
+  "id": 1325345,
+  "name": "11860 Kemper Road 8",
+  "description": "Special Purpose | 1,483 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1325345/2d4c054d4b224cd385c548a433aace57_716x444.jpg",
+  "urlSlug": "california-11860-kemper-road-8",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+  "activatedOn": "2024-09-03T10:01:21.962Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 7,
+  "showCountdownAsDate": false,
+  "askingPrice": 420000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-06T10:19:51.221Z",
+  "numberOfImages": 7,
+  "types": [
+    "Special Purpose",
+    "Industrial",
+    "Land"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "11860 Kemper Road 8",
+      "city": "Auburn",
+      "county": "Placer County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "95603",
+      "latitude": 38.9308072,
+      "longitude": -121.0915333,
+      "fullAddress": "11860 Kemper Road 8, Auburn, Placer County, CA 95603"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1325345/california-11860-kemper-road-8"
 }
 {
   "id": 793663,
@@ -384,6 +384,48 @@
   "propertyUrl": "https://www.crexi.com/properties/1296395/california-terra-bella---industrial---parcel-3"
 }
 {
+  "id": 1296398,
+  "name": "Terra Bella - Industrial - Parcel 4",
+  "description": "Industrial",
+  "thumbnailUrl": "https://images.crexi.com/assets/1296398/addabe7273b742ca9427be7f7cf4e18b_716x444.jpg",
+  "urlSlug": "california-terra-bella---industrial---parcel-4",
+  "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
+  "brokerageName": "Lion Group Investments",
+  "activatedOn": "2023-10-21T23:37:00.236Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 1,
+  "showCountdownAsDate": false,
+  "askingPrice": 199000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-23T17:00:06.748Z",
+  "numberOfImages": 1,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": true,
+  "hasFlyer": false,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "Parcel 4, 23297 Ave 88",
+      "city": "Terra Bella",
+      "county": "Tulare County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "93270",
+      "latitude": 35.94924245479436,
+      "longitude": -119.05368665888268,
+      "fullAddress": "Parcel 4, 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1296398/california-terra-bella---industrial---parcel-4"
+}
+{
   "id": 1006936,
   "name": "2950 W Catalina Dr",
   "description": "Office | 47,526 SF",
@@ -427,48 +469,6 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1006936/arizona-2950-w-catalina-dr"
-}
-{
-  "id": 1296398,
-  "name": "Terra Bella - Industrial - Parcel 4",
-  "description": "Industrial",
-  "thumbnailUrl": "https://images.crexi.com/assets/1296398/addabe7273b742ca9427be7f7cf4e18b_716x444.jpg",
-  "urlSlug": "california-terra-bella---industrial---parcel-4",
-  "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
-  "brokerageName": "Lion Group Investments",
-  "activatedOn": "2023-10-21T23:37:00.236Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 1,
-  "showCountdownAsDate": false,
-  "askingPrice": 199000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-23T17:00:06.748Z",
-  "numberOfImages": 1,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": true,
-  "hasFlyer": false,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "Parcel 4, 23297 Ave 88",
-      "city": "Terra Bella",
-      "county": "Tulare County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "93270",
-      "latitude": 35.94924245479436,
-      "longitude": -119.05368665888268,
-      "fullAddress": "Parcel 4, 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1296398/california-terra-bella---industrial---parcel-4"
 }
 {
   "id": 1221526,
@@ -769,49 +769,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1296394/california-terra-bella---industrial---parcel-2"
 }
 {
-  "id": 1606201,
-  "name": "4802 Derrick Drive",
-  "description": "Retail | 1,230 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1606201/5c5360b84eaa489fbd288bc0f55742af_716x444.jpg",
-  "urlSlug": "texas-4802-derrick-drive",
-  "brokerageName": "Whitten Real Estate",
-  "activatedOn": "2024-07-13T21:13:39.048Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 1,
-  "pricePerSqFtLand": "$3.21/SF",
-  "showCountdownAsDate": false,
-  "askingPrice": 329900,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-07-13T21:15:05.187Z",
-  "numberOfImages": 1,
-  "types": [
-    "Retail",
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "4802 Derrick Dr",
-      "city": "Abilene",
-      "county": "Taylor County",
-      "state": {
-        "code": "TX",
-        "name": "Texas"
-      },
-      "zip": "79601",
-      "latitude": 32.4392092,
-      "longitude": -99.6601407,
-      "fullAddress": "4802 Derrick Dr, Abilene, Taylor County, TX 79601"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1606201/texas-4802-derrick-drive"
-}
-{
   "id": 1094534,
   "name": "3895 E 45th Ave",
   "description": "Industrial | 3,840 SF",
@@ -853,6 +810,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1094534/colorado-3895-e-45th-ave"
+}
+{
+  "id": 1606201,
+  "name": "4802 Derrick Drive",
+  "description": "Retail | 1,230 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1606201/5c5360b84eaa489fbd288bc0f55742af_716x444.jpg",
+  "urlSlug": "texas-4802-derrick-drive",
+  "brokerageName": "Whitten Real Estate",
+  "activatedOn": "2024-07-13T21:13:39.048Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 1,
+  "pricePerSqFtLand": "$3.21/SF",
+  "showCountdownAsDate": false,
+  "askingPrice": 329900,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-07-13T21:15:05.187Z",
+  "numberOfImages": 1,
+  "types": [
+    "Retail",
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "4802 Derrick Dr",
+      "city": "Abilene",
+      "county": "Taylor County",
+      "state": {
+        "code": "TX",
+        "name": "Texas"
+      },
+      "zip": "79601",
+      "latitude": 32.4392092,
+      "longitude": -99.6601407,
+      "fullAddress": "4802 Derrick Dr, Abilene, Taylor County, TX 79601"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1606201/texas-4802-derrick-drive"
 }
 {
   "id": 343566,
@@ -1201,6 +1201,49 @@
   "propertyUrl": "https://www.crexi.com/properties/1659274/oregon-2008-commerce"
 }
 {
+  "id": 1517776,
+  "name": "1150 W Broadway Street",
+  "description": "Industrial | 2,800 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1517776/8eabb9be64b6400b94ef0b4962d1df65_716x444.jpg",
+  "urlSlug": "california-1150-w-broadway-street",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/806/d39568a3d8e4438aab652ccdcfea1727_150x100_resize.jpg",
+  "brokerageName": "Coldwell Banker Campbell Realtors",
+  "activatedOn": "2024-04-24T10:35:31.034Z",
+  "isInOpportunityZone": true,
+  "hasVideo": false,
+  "numberOfGalleryItems": 63,
+  "showCountdownAsDate": false,
+  "askingPrice": 395000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-10-02T10:29:00.422Z",
+  "numberOfImages": 63,
+  "types": [
+    "Industrial",
+    "Land"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "1150 W Broadway Street",
+      "city": "Needles",
+      "county": "san Bernardino",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "92363",
+      "latitude": 34.8409747,
+      "longitude": -114.6086424,
+      "fullAddress": "1150 W Broadway Street, Needles, san Bernardino, CA 92363"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1517776/california-1150-w-broadway-street"
+}
+{
   "id": 1613407,
   "name": "4301 S Robinson Ave",
   "description": "Retail Industrial Warehouse for Sale",
@@ -1242,49 +1285,6 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1613407/oklahoma-retail-industrial-warehouse-for-sale"
-}
-{
-  "id": 1647286,
-  "name": "28 Acres Heavy Industrial",
-  "description": "Largest Heavy Industrial property available in Crook County",
-  "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
-  "urlSlug": "oregon-28-acres-heavy-industrial",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
-  "brokerageName": "Crook County Properties LLC",
-  "activatedOn": "2024-08-16T16:53:24.034Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 9,
-  "showCountdownAsDate": false,
-  "askingPrice": 980000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-17T16:09:53.312Z",
-  "numberOfImages": 9,
-  "types": [
-    "Industrial"
-  ],
-  "investmentType": "Owner/User",
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "606 NW Lamonta Rd",
-      "city": "Prineville",
-      "county": "Crook County",
-      "state": {
-        "code": "OR",
-        "name": "Oregon"
-      },
-      "zip": "97754",
-      "latitude": 44.33854782257441,
-      "longitude": -120.88660370549526,
-      "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1647286/oregon-28-acres-heavy-industrial"
 }
 {
   "id": 1560289,
@@ -1329,6 +1329,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1560289/california-1589-highway-33"
+}
+{
+  "id": 1647286,
+  "name": "28 Acres Heavy Industrial",
+  "description": "Largest Heavy Industrial property available in Crook County",
+  "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
+  "urlSlug": "oregon-28-acres-heavy-industrial",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
+  "brokerageName": "Crook County Properties LLC",
+  "activatedOn": "2024-08-16T16:53:24.034Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 9,
+  "showCountdownAsDate": false,
+  "askingPrice": 980000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-17T16:09:53.312Z",
+  "numberOfImages": 9,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "606 NW Lamonta Rd",
+      "city": "Prineville",
+      "county": "Crook County",
+      "state": {
+        "code": "OR",
+        "name": "Oregon"
+      },
+      "zip": "97754",
+      "latitude": 44.33854782257441,
+      "longitude": -120.88660370549526,
+      "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1647286/oregon-28-acres-heavy-industrial"
 }
 {
   "id": 1662436,
@@ -1828,49 +1871,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1145218/arizona-eaton-park"
 }
 {
-  "id": 1643870,
-  "name": "Collins Drive",
-  "description": "Land",
-  "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
-  "urlSlug": "california-collins-drive",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-  "activatedOn": "2024-08-13T10:03:18.061Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 26,
-  "showCountdownAsDate": false,
-  "askingPrice": 649000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-19T10:02:26.223Z",
-  "numberOfImages": 26,
-  "types": [
-    "Land",
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "Collins Drive",
-      "city": "Auburn",
-      "county": "Placer County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "95603",
-      "latitude": 38.9057643,
-      "longitude": -121.086736,
-      "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
-}
-{
   "id": 1510168,
   "name": "625 Miller Valley Road",
   "description": "Retail End User and/or Investment Opportunity",
@@ -1953,6 +1953,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
+}
+{
+  "id": 1643870,
+  "name": "Collins Drive",
+  "description": "Land",
+  "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
+  "urlSlug": "california-collins-drive",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+  "activatedOn": "2024-08-13T10:03:18.061Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 26,
+  "showCountdownAsDate": false,
+  "askingPrice": 649000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-19T10:02:26.223Z",
+  "numberOfImages": 26,
+  "types": [
+    "Land",
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "Collins Drive",
+      "city": "Auburn",
+      "county": "Placer County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "95603",
+      "latitude": 38.9057643,
+      "longitude": -121.086736,
+      "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
 }
 {
   "id": 1582316,
@@ -2129,47 +2172,4 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1669941/california-freestanding-retailofficeflex-building-salon-equipment"
-}
-{
-  "id": 1546985,
-  "name": "State-of-the-Art Cannabis Cultivation Facility",
-  "description": "State-of-the-Art Commercial Warehouse and Cannabis Cultivation Facility",
-  "thumbnailUrl": "https://images.crexi.com/assets/1546985/a518333f3e324de79118ebb2f8ef0f69_716x444.jpg",
-  "urlSlug": "california-state-of-the-art-cannabis-cultivation-facility",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/121446/606b81e5a1e045a4b75977d625ed1af2_150x100_resize.jpg",
-  "brokerageName": "Liberty Business Advisors",
-  "activatedOn": "2024-05-30T01:33:59.774Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 60,
-  "showCountdownAsDate": false,
-  "askingPrice": 7777000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-18T04:22:53.647Z",
-  "numberOfImages": 60,
-  "types": [
-    "Industrial"
-  ],
-  "investmentType": "Owner/User",
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "42144 8th St E",
-      "city": "Lancaster",
-      "county": "Los Angeles County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "93535",
-      "latitude": 34.6489061,
-      "longitude": -118.1140473,
-      "fullAddress": "42144 8th St E, Lancaster, Los Angeles County, CA 93535"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1546985/california-state-of-the-art-cannabis-cultivation-facility"
 }
