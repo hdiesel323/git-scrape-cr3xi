@@ -212,50 +212,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1208952/idaho-12870-go-way-ave-tyhee-industrial-park"
 }
 {
-  "id": 1325344,
-  "name": "11860 Kemper Road 7",
-  "description": "Special Purpose | 1,350 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
-  "urlSlug": "california-11860-kemper-road-7",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-  "activatedOn": "2024-08-31T10:03:09.905Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 8,
-  "showCountdownAsDate": false,
-  "askingPrice": 500000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-06T10:19:51.619Z",
-  "numberOfImages": 8,
-  "types": [
-    "Special Purpose",
-    "Industrial",
-    "Land"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "11860 Kemper Road 7",
-      "city": "Auburn",
-      "county": "Placer County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "95603",
-      "latitude": 38.9307359,
-      "longitude": -121.0915371,
-      "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1325344/california-11860-kemper-road-7"
-}
-{
   "id": 1325345,
   "name": "11860 Kemper Road 8",
   "description": "Special Purpose | 1,483 SF",
@@ -298,6 +254,50 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1325345/california-11860-kemper-road-8"
+}
+{
+  "id": 1325344,
+  "name": "11860 Kemper Road 7",
+  "description": "Special Purpose | 1,350 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
+  "urlSlug": "california-11860-kemper-road-7",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+  "activatedOn": "2024-08-31T10:03:09.905Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 8,
+  "showCountdownAsDate": false,
+  "askingPrice": 500000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-06T10:19:51.619Z",
+  "numberOfImages": 8,
+  "types": [
+    "Special Purpose",
+    "Industrial",
+    "Land"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "11860 Kemper Road 7",
+      "city": "Auburn",
+      "county": "Placer County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "95603",
+      "latitude": 38.9307359,
+      "longitude": -121.0915371,
+      "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1325344/california-11860-kemper-road-7"
 }
 {
   "id": 793663,
@@ -384,48 +384,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1296395/california-terra-bella---industrial---parcel-3"
 }
 {
-  "id": 1296398,
-  "name": "Terra Bella - Industrial - Parcel 4",
-  "description": "Industrial",
-  "thumbnailUrl": "https://images.crexi.com/assets/1296398/addabe7273b742ca9427be7f7cf4e18b_716x444.jpg",
-  "urlSlug": "california-terra-bella---industrial---parcel-4",
-  "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
-  "brokerageName": "Lion Group Investments",
-  "activatedOn": "2023-10-21T23:37:00.236Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 1,
-  "showCountdownAsDate": false,
-  "askingPrice": 199000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-23T17:00:06.748Z",
-  "numberOfImages": 1,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": true,
-  "hasFlyer": false,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "Parcel 4, 23297 Ave 88",
-      "city": "Terra Bella",
-      "county": "Tulare County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "93270",
-      "latitude": 35.94924245479436,
-      "longitude": -119.05368665888268,
-      "fullAddress": "Parcel 4, 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1296398/california-terra-bella---industrial---parcel-4"
-}
-{
   "id": 1006936,
   "name": "2950 W Catalina Dr",
   "description": "Office | 47,526 SF",
@@ -469,6 +427,48 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1006936/arizona-2950-w-catalina-dr"
+}
+{
+  "id": 1296398,
+  "name": "Terra Bella - Industrial - Parcel 4",
+  "description": "Industrial",
+  "thumbnailUrl": "https://images.crexi.com/assets/1296398/addabe7273b742ca9427be7f7cf4e18b_716x444.jpg",
+  "urlSlug": "california-terra-bella---industrial---parcel-4",
+  "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
+  "brokerageName": "Lion Group Investments",
+  "activatedOn": "2023-10-21T23:37:00.236Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 1,
+  "showCountdownAsDate": false,
+  "askingPrice": 199000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-23T17:00:06.748Z",
+  "numberOfImages": 1,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": true,
+  "hasFlyer": false,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "Parcel 4, 23297 Ave 88",
+      "city": "Terra Bella",
+      "county": "Tulare County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "93270",
+      "latitude": 35.94924245479436,
+      "longitude": -119.05368665888268,
+      "fullAddress": "Parcel 4, 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1296398/california-terra-bella---industrial---parcel-4"
 }
 {
   "id": 1221526,
@@ -685,6 +685,48 @@
   "propertyUrl": "https://www.crexi.com/properties/804694/oklahoma-311-se-11th-street"
 }
 {
+  "id": 1296394,
+  "name": "Terra Bella - Industrial - Parcel 2",
+  "description": "Industrial",
+  "thumbnailUrl": "https://images.crexi.com/assets/1296394/eff45890901a4cd783d113146650ed2c_716x444.jpg",
+  "urlSlug": "california-terra-bella---industrial---parcel-2",
+  "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
+  "brokerageName": "Lion Group Investments",
+  "activatedOn": "2023-10-21T23:26:06.587Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 1,
+  "showCountdownAsDate": false,
+  "askingPrice": 349900,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-23T17:00:06.676Z",
+  "numberOfImages": 1,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": true,
+  "hasFlyer": false,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "Parcel 2 - 23297 Ave 88",
+      "city": "Terra Bella",
+      "county": "Tulare County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "93270",
+      "latitude": 35.94938438078769,
+      "longitude": -119.05368745792565,
+      "fullAddress": "Parcel 2 - 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1296394/california-terra-bella---industrial---parcel-2"
+}
+{
   "id": 1553485,
   "name": "2965 Coleman Street",
   "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
@@ -727,46 +769,47 @@
   "propertyUrl": "https://www.crexi.com/properties/1553485/nevada-2965-coleman-street"
 }
 {
-  "id": 1296394,
-  "name": "Terra Bella - Industrial - Parcel 2",
-  "description": "Industrial",
-  "thumbnailUrl": "https://images.crexi.com/assets/1296394/eff45890901a4cd783d113146650ed2c_716x444.jpg",
-  "urlSlug": "california-terra-bella---industrial---parcel-2",
-  "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
-  "brokerageName": "Lion Group Investments",
-  "activatedOn": "2023-10-21T23:26:06.587Z",
+  "id": 1606201,
+  "name": "4802 Derrick Drive",
+  "description": "Retail | 1,230 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1606201/5c5360b84eaa489fbd288bc0f55742af_716x444.jpg",
+  "urlSlug": "texas-4802-derrick-drive",
+  "brokerageName": "Whitten Real Estate",
+  "activatedOn": "2024-07-13T21:13:39.048Z",
   "isInOpportunityZone": false,
   "hasVideo": false,
   "numberOfGalleryItems": 1,
+  "pricePerSqFtLand": "$3.21/SF",
   "showCountdownAsDate": false,
-  "askingPrice": 349900,
+  "askingPrice": 329900,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-09-23T17:00:06.676Z",
+  "updatedOn": "2024-07-13T21:15:05.187Z",
   "numberOfImages": 1,
   "types": [
+    "Retail",
     "Industrial"
   ],
-  "hasOM": true,
-  "hasFlyer": false,
+  "hasOM": false,
+  "hasFlyer": true,
   "status": "On-Market",
   "hasVirtualTour": false,
   "locations": [
     {
-      "address": "Parcel 2 - 23297 Ave 88",
-      "city": "Terra Bella",
-      "county": "Tulare County",
+      "address": "4802 Derrick Dr",
+      "city": "Abilene",
+      "county": "Taylor County",
       "state": {
-        "code": "CA",
-        "name": "California"
+        "code": "TX",
+        "name": "Texas"
       },
-      "zip": "93270",
-      "latitude": 35.94938438078769,
-      "longitude": -119.05368745792565,
-      "fullAddress": "Parcel 2 - 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
+      "zip": "79601",
+      "latitude": 32.4392092,
+      "longitude": -99.6601407,
+      "fullAddress": "4802 Derrick Dr, Abilene, Taylor County, TX 79601"
     }
   ],
   "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1296394/california-terra-bella---industrial---parcel-2"
+  "propertyUrl": "https://www.crexi.com/properties/1606201/texas-4802-derrick-drive"
 }
 {
   "id": 1094534,
@@ -812,47 +855,46 @@
   "propertyUrl": "https://www.crexi.com/properties/1094534/colorado-3895-e-45th-ave"
 }
 {
-  "id": 1606201,
-  "name": "4802 Derrick Drive",
-  "description": "Retail | 1,230 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1606201/5c5360b84eaa489fbd288bc0f55742af_716x444.jpg",
-  "urlSlug": "texas-4802-derrick-drive",
-  "brokerageName": "Whitten Real Estate",
-  "activatedOn": "2024-07-13T21:13:39.048Z",
+  "id": 754547,
+  "name": "110-200W61stStN -NNNorOwnerLeaseOptionPurchase pob1351@gmail",
+  "description": "Lease Option to Purchase - Great Location - 14 Rollup Doors - 4.3 Acres",
+  "thumbnailUrl": "https://images.crexi.com/assets/754547/693bc2bbef8844dba0031f71a608d0b8_716x444.jpg",
+  "urlSlug": "kansas-110-200-w-61st-st-n",
+  "brokerageName": "GJGroup 88",
+  "activatedOn": "2022-02-05T10:49:24.577Z",
   "isInOpportunityZone": false,
   "hasVideo": false,
-  "numberOfGalleryItems": 1,
-  "pricePerSqFtLand": "$3.21/SF",
+  "numberOfGalleryItems": 12,
   "showCountdownAsDate": false,
-  "askingPrice": 329900,
+  "askingPrice": 1595000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-07-13T21:15:05.187Z",
-  "numberOfImages": 1,
+  "updatedOn": "2024-10-03T15:37:19.558Z",
+  "numberOfImages": 12,
   "types": [
-    "Retail",
     "Industrial"
   ],
+  "investmentType": "Owner/User",
   "hasOM": false,
   "hasFlyer": true,
   "status": "On-Market",
-  "hasVirtualTour": false,
+  "hasVirtualTour": true,
   "locations": [
     {
-      "address": "4802 Derrick Dr",
-      "city": "Abilene",
-      "county": "Taylor County",
+      "address": "110 W 61st St N",
+      "city": "Park City",
+      "county": "Sedgwick County",
       "state": {
-        "code": "TX",
-        "name": "Texas"
+        "code": "KS",
+        "name": "Kansas"
       },
-      "zip": "79601",
-      "latitude": 32.4392092,
-      "longitude": -99.6601407,
-      "fullAddress": "4802 Derrick Dr, Abilene, Taylor County, TX 79601"
+      "zip": "67204",
+      "latitude": 37.7967043,
+      "longitude": -97.339234,
+      "fullAddress": "110 W 61st St N, Park City, Sedgwick County, KS 67204"
     }
   ],
   "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1606201/texas-4802-derrick-drive"
+  "propertyUrl": "https://www.crexi.com/properties/754547/kansas-110-200-w-61st-st-n"
 }
 {
   "id": 343566,
@@ -1071,8 +1113,8 @@
 }
 {
   "id": 1148554,
-  "name": "6 Virginia/2 Doug Court",
-  "description": "Amazing property for your manufacturing business. Easily convertible to many other uses.",
+  "name": "Montana City Shop",
+  "description": "Perfect for Light Manufacturing, Warehouse, Distribution, and Much More",
   "thumbnailUrl": "https://images.crexi.com/assets/1148554/a12b404edaa04cfdaa2b9b319441b070_716x444.jpg",
   "urlSlug": "montana-virginia-ln",
   "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/89526/28f1f1b0fa2344cf88225a0541455821_150x100_resize.jpg",
@@ -1084,75 +1126,76 @@
   "showCountdownAsDate": false,
   "askingPrice": 949000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-08-06T15:53:12.935Z",
+  "updatedOn": "2024-10-03T16:01:36.236Z",
   "numberOfImages": 28,
   "types": [
     "Industrial"
   ],
   "investmentType": "Owner/User",
   "hasOM": true,
-  "hasFlyer": true,
+  "hasFlyer": false,
   "status": "On-Market",
   "hasVirtualTour": false,
   "locations": [
     {
-      "address": "2 Doug Ct",
-      "city": "Clancy",
+      "address": "6 Virginia Road",
+      "city": "Montana City",
       "county": "Jefferson County",
       "state": {
         "code": "MT",
         "name": "Montana"
       },
       "zip": "59634",
-      "latitude": 46.535609,
-      "longitude": -111.946784,
-      "fullAddress": "2 Doug Ct, Clancy, Jefferson County, MT 59634"
+      "latitude": 46.535847,
+      "longitude": -111.9468481,
+      "fullAddress": "6 Virginia Road, Montana City, Jefferson County, MT 59634"
     }
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1148554/montana-virginia-ln"
 }
 {
-  "id": 754547,
-  "name": "110-200W61stStN -NNNorOwnerLeaseOptionPurchase pob1351@gmail",
-  "description": "Lease Option to Purchase - Great Location - 14 Rollup Doors - 4.3 Acres",
-  "thumbnailUrl": "https://images.crexi.com/assets/754547/693bc2bbef8844dba0031f71a608d0b8_716x444.jpg",
-  "urlSlug": "kansas-110-200-w-61st-st-n",
-  "brokerageName": "GJGroup 88",
-  "activatedOn": "2022-02-05T10:49:24.577Z",
+  "id": 1613407,
+  "name": "4301 S Robinson Ave",
+  "description": "Retail Industrial Warehouse for Sale",
+  "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
+  "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
+  "brokerageName": "Equity Commercial Realty Advisors, LLC",
+  "activatedOn": "2024-07-15T22:34:23.6Z",
   "isInOpportunityZone": false,
   "hasVideo": false,
-  "numberOfGalleryItems": 12,
+  "numberOfGalleryItems": 16,
   "showCountdownAsDate": false,
-  "askingPrice": 1595000,
+  "askingPrice": 390000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-09-06T14:48:49.42Z",
-  "numberOfImages": 12,
+  "updatedOn": "2024-09-17T15:10:15.069Z",
+  "numberOfImages": 16,
   "types": [
+    "Retail",
     "Industrial"
   ],
-  "investmentType": "Owner/User",
   "hasOM": false,
   "hasFlyer": true,
   "status": "On-Market",
-  "hasVirtualTour": true,
+  "hasVirtualTour": false,
   "locations": [
     {
-      "address": "110 W 61st St N",
-      "city": "Park City",
-      "county": "Sedgwick County",
+      "address": "4301 S Robinson Ave",
+      "city": "Oklahoma City",
+      "county": "Oklahoma County",
       "state": {
-        "code": "KS",
-        "name": "Kansas"
+        "code": "OK",
+        "name": "Oklahoma"
       },
-      "zip": "67204",
-      "latitude": 37.7967043,
-      "longitude": -97.339234,
-      "fullAddress": "110 W 61st St N, Park City, Sedgwick County, KS 67204"
+      "zip": "73109",
+      "latitude": 35.42272311621037,
+      "longitude": -97.5162203952987,
+      "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
     }
   ],
   "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/754547/kansas-110-200-w-61st-st-n"
+  "propertyUrl": "https://www.crexi.com/properties/1613407/oklahoma-retail-industrial-warehouse-for-sale"
 }
 {
   "id": 1659274,
@@ -1244,47 +1287,47 @@
   "propertyUrl": "https://www.crexi.com/properties/1517776/california-1150-w-broadway-street"
 }
 {
-  "id": 1613407,
-  "name": "4301 S Robinson Ave",
-  "description": "Retail Industrial Warehouse for Sale",
-  "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
-  "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
-  "brokerageName": "Equity Commercial Realty Advisors, LLC",
-  "activatedOn": "2024-07-15T22:34:23.6Z",
+  "id": 1647286,
+  "name": "28 Acres Heavy Industrial",
+  "description": "Largest Heavy Industrial property available in Crook County",
+  "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
+  "urlSlug": "oregon-28-acres-heavy-industrial",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
+  "brokerageName": "Crook County Properties LLC",
+  "activatedOn": "2024-08-16T16:53:24.034Z",
   "isInOpportunityZone": false,
   "hasVideo": false,
-  "numberOfGalleryItems": 16,
+  "numberOfGalleryItems": 9,
   "showCountdownAsDate": false,
-  "askingPrice": 390000,
+  "askingPrice": 980000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-09-17T15:10:15.069Z",
-  "numberOfImages": 16,
+  "updatedOn": "2024-09-17T16:09:53.312Z",
+  "numberOfImages": 9,
   "types": [
-    "Retail",
     "Industrial"
   ],
+  "investmentType": "Owner/User",
   "hasOM": false,
   "hasFlyer": true,
   "status": "On-Market",
   "hasVirtualTour": false,
   "locations": [
     {
-      "address": "4301 S Robinson Ave",
-      "city": "Oklahoma City",
-      "county": "Oklahoma County",
+      "address": "606 NW Lamonta Rd",
+      "city": "Prineville",
+      "county": "Crook County",
       "state": {
-        "code": "OK",
-        "name": "Oklahoma"
+        "code": "OR",
+        "name": "Oregon"
       },
-      "zip": "73109",
-      "latitude": 35.42272311621037,
-      "longitude": -97.5162203952987,
-      "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
+      "zip": "97754",
+      "latitude": 44.33854782257441,
+      "longitude": -120.88660370549526,
+      "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
     }
   ],
   "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1613407/oklahoma-retail-industrial-warehouse-for-sale"
+  "propertyUrl": "https://www.crexi.com/properties/1647286/oregon-28-acres-heavy-industrial"
 }
 {
   "id": 1560289,
@@ -1329,49 +1372,6 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1560289/california-1589-highway-33"
-}
-{
-  "id": 1647286,
-  "name": "28 Acres Heavy Industrial",
-  "description": "Largest Heavy Industrial property available in Crook County",
-  "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
-  "urlSlug": "oregon-28-acres-heavy-industrial",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
-  "brokerageName": "Crook County Properties LLC",
-  "activatedOn": "2024-08-16T16:53:24.034Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 9,
-  "showCountdownAsDate": false,
-  "askingPrice": 980000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-17T16:09:53.312Z",
-  "numberOfImages": 9,
-  "types": [
-    "Industrial"
-  ],
-  "investmentType": "Owner/User",
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "606 NW Lamonta Rd",
-      "city": "Prineville",
-      "county": "Crook County",
-      "state": {
-        "code": "OR",
-        "name": "Oregon"
-      },
-      "zip": "97754",
-      "latitude": 44.33854782257441,
-      "longitude": -120.88660370549526,
-      "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1647286/oregon-28-acres-heavy-industrial"
 }
 {
   "id": 1662436,
@@ -1625,7 +1625,7 @@
   "showCountdownAsDate": false,
   "askingPrice": 3350000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-07-02T23:10:20.698Z",
+  "updatedOn": "2024-10-03T22:33:20.836Z",
   "numberOfImages": 4,
   "types": [
     "Industrial"
@@ -1710,7 +1710,7 @@
   "showCountdownAsDate": false,
   "askingPrice": 4113370,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-07-04T23:40:06.4Z",
+  "updatedOn": "2024-10-03T23:40:53.804Z",
   "numberOfImages": 17,
   "types": [
     "Hospitality",
@@ -1871,24 +1871,24 @@
   "propertyUrl": "https://www.crexi.com/properties/1145218/arizona-eaton-park"
 }
 {
-  "id": 1510168,
-  "name": "625 Miller Valley Road",
-  "description": "Retail End User and/or Investment Opportunity",
-  "thumbnailUrl": "https://images.crexi.com/assets/1510168/0d0fbfeb421e4663838ec75adbe11c7d_716x444.jpg",
-  "urlSlug": "arizona-625-miller-valley-road",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/23807/59106f86f05643378f90e05bc4865312_150x100_resize.jpg",
-  "brokerageName": "Better Homes and Gardens BloomTree Realty",
-  "activatedOn": "2024-04-16T12:56:44.934Z",
+  "id": 1643870,
+  "name": "Collins Drive",
+  "description": "Land",
+  "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
+  "urlSlug": "california-collins-drive",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+  "activatedOn": "2024-08-13T10:03:18.061Z",
   "isInOpportunityZone": false,
   "hasVideo": false,
-  "numberOfGalleryItems": 11,
+  "numberOfGalleryItems": 26,
   "showCountdownAsDate": false,
-  "askingPrice": 600000,
+  "askingPrice": 649000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-07-24T04:19:10.586Z",
-  "numberOfImages": 11,
+  "updatedOn": "2024-08-19T10:02:26.223Z",
+  "numberOfImages": 26,
   "types": [
-    "Retail",
+    "Land",
     "Industrial"
   ],
   "hasOM": false,
@@ -1897,21 +1897,21 @@
   "hasVirtualTour": false,
   "locations": [
     {
-      "address": "625 Miller Valley Road",
-      "city": "Prescott",
-      "county": "Yavapai County",
+      "address": "Collins Drive",
+      "city": "Auburn",
+      "county": "Placer County",
       "state": {
-        "code": "AZ",
-        "name": "Arizona"
+        "code": "CA",
+        "name": "California"
       },
-      "zip": "86301",
-      "latitude": 34.5525563,
-      "longitude": -112.4797855,
-      "fullAddress": "625 Miller Valley Road, Prescott, Yavapai County, AZ 86301"
+      "zip": "95603",
+      "latitude": 38.9057643,
+      "longitude": -121.086736,
+      "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
     }
   ],
   "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1510168/arizona-625-miller-valley-road"
+  "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
 }
 {
   "id": 1517295,
@@ -1955,24 +1955,24 @@
   "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
 }
 {
-  "id": 1643870,
-  "name": "Collins Drive",
-  "description": "Land",
-  "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
-  "urlSlug": "california-collins-drive",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-  "activatedOn": "2024-08-13T10:03:18.061Z",
+  "id": 1510168,
+  "name": "625 Miller Valley Road",
+  "description": "Retail End User and/or Investment Opportunity",
+  "thumbnailUrl": "https://images.crexi.com/assets/1510168/0d0fbfeb421e4663838ec75adbe11c7d_716x444.jpg",
+  "urlSlug": "arizona-625-miller-valley-road",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/23807/59106f86f05643378f90e05bc4865312_150x100_resize.jpg",
+  "brokerageName": "Better Homes and Gardens BloomTree Realty",
+  "activatedOn": "2024-04-16T12:56:44.934Z",
   "isInOpportunityZone": false,
   "hasVideo": false,
-  "numberOfGalleryItems": 26,
+  "numberOfGalleryItems": 11,
   "showCountdownAsDate": false,
-  "askingPrice": 649000,
+  "askingPrice": 600000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-08-19T10:02:26.223Z",
-  "numberOfImages": 26,
+  "updatedOn": "2024-07-24T04:19:10.586Z",
+  "numberOfImages": 11,
   "types": [
-    "Land",
+    "Retail",
     "Industrial"
   ],
   "hasOM": false,
@@ -1981,21 +1981,21 @@
   "hasVirtualTour": false,
   "locations": [
     {
-      "address": "Collins Drive",
-      "city": "Auburn",
-      "county": "Placer County",
+      "address": "625 Miller Valley Road",
+      "city": "Prescott",
+      "county": "Yavapai County",
       "state": {
-        "code": "CA",
-        "name": "California"
+        "code": "AZ",
+        "name": "Arizona"
       },
-      "zip": "95603",
-      "latitude": 38.9057643,
-      "longitude": -121.086736,
-      "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
+      "zip": "86301",
+      "latitude": 34.5525563,
+      "longitude": -112.4797855,
+      "fullAddress": "625 Miller Valley Road, Prescott, Yavapai County, AZ 86301"
     }
   ],
   "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
+  "propertyUrl": "https://www.crexi.com/properties/1510168/arizona-625-miller-valley-road"
 }
 {
   "id": 1582316,
