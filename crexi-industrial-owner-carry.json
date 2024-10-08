@@ -52,18 +52,18 @@
   "activatedOn": "2024-09-20T00:05:00.478Z",
   "isInOpportunityZone": false,
   "hasVideo": true,
-  "numberOfGalleryItems": 54,
+  "numberOfGalleryItems": 59,
   "pricePerSqFtLand": "$214/SF",
   "showCountdownAsDate": false,
   "askingPrice": 4600000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-09-24T18:48:21.649Z",
-  "numberOfImages": 53,
+  "updatedOn": "2024-10-07T18:58:46.846Z",
+  "numberOfImages": 58,
   "types": [
     "Industrial"
   ],
   "investmentType": "Owner/User",
-  "hasOM": false,
+  "hasOM": true,
   "hasFlyer": true,
   "status": "On-Market",
   "hasVirtualTour": false,
@@ -685,48 +685,6 @@
   "propertyUrl": "https://www.crexi.com/properties/804694/oklahoma-311-se-11th-street"
 }
 {
-  "id": 1553485,
-  "name": "2965 Coleman Street",
-  "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
-  "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
-  "urlSlug": "nevada-2965-coleman-street",
-  "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
-  "brokerageName": "CBRE Las Vegas",
-  "activatedOn": "2024-06-05T23:32:05.482Z",
-  "isInOpportunityZone": true,
-  "hasVideo": false,
-  "numberOfGalleryItems": 8,
-  "showCountdownAsDate": false,
-  "askingPrice": 4000000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-06T22:32:40.041Z",
-  "numberOfImages": 8,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "2965 Coleman St",
-      "city": "North Las Vegas",
-      "county": "Clark County",
-      "state": {
-        "code": "NV",
-        "name": "Nevada"
-      },
-      "zip": "89032",
-      "latitude": 36.2133026,
-      "longitude": -115.1752522,
-      "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1553485/nevada-2965-coleman-street"
-}
-{
   "id": 1296394,
   "name": "Terra Bella - Industrial - Parcel 2",
   "description": "Industrial",
@@ -767,6 +725,48 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1296394/california-terra-bella---industrial---parcel-2"
+}
+{
+  "id": 1553485,
+  "name": "2965 Coleman Street",
+  "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
+  "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
+  "urlSlug": "nevada-2965-coleman-street",
+  "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
+  "brokerageName": "CBRE Las Vegas",
+  "activatedOn": "2024-06-05T23:32:05.482Z",
+  "isInOpportunityZone": true,
+  "hasVideo": false,
+  "numberOfGalleryItems": 8,
+  "showCountdownAsDate": false,
+  "askingPrice": 4000000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-06T22:32:40.041Z",
+  "numberOfImages": 8,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "2965 Coleman St",
+      "city": "North Las Vegas",
+      "county": "Clark County",
+      "state": {
+        "code": "NV",
+        "name": "Nevada"
+      },
+      "zip": "89032",
+      "latitude": 36.2133026,
+      "longitude": -115.1752522,
+      "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1553485/nevada-2965-coleman-street"
 }
 {
   "id": 1606201,
@@ -1287,6 +1287,49 @@
   "propertyUrl": "https://www.crexi.com/properties/1613407/oklahoma-retail-industrial-warehouse-for-sale"
 }
 {
+  "id": 1647286,
+  "name": "28 Acres Heavy Industrial",
+  "description": "Largest Heavy Industrial property available in Crook County",
+  "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
+  "urlSlug": "oregon-28-acres-heavy-industrial",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
+  "brokerageName": "Crook County Properties LLC",
+  "activatedOn": "2024-08-16T16:53:24.034Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 9,
+  "showCountdownAsDate": false,
+  "askingPrice": 980000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-17T16:09:53.312Z",
+  "numberOfImages": 9,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "606 NW Lamonta Rd",
+      "city": "Prineville",
+      "county": "Crook County",
+      "state": {
+        "code": "OR",
+        "name": "Oregon"
+      },
+      "zip": "97754",
+      "latitude": 44.33854782257441,
+      "longitude": -120.88660370549526,
+      "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1647286/oregon-28-acres-heavy-industrial"
+}
+{
   "id": 1560289,
   "name": "1589 Highway 33",
   "description": "Special Purpose | 6,800 SF",
@@ -1329,49 +1372,6 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1560289/california-1589-highway-33"
-}
-{
-  "id": 1647286,
-  "name": "28 Acres Heavy Industrial",
-  "description": "Largest Heavy Industrial property available in Crook County",
-  "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
-  "urlSlug": "oregon-28-acres-heavy-industrial",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
-  "brokerageName": "Crook County Properties LLC",
-  "activatedOn": "2024-08-16T16:53:24.034Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 9,
-  "showCountdownAsDate": false,
-  "askingPrice": 980000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-17T16:09:53.312Z",
-  "numberOfImages": 9,
-  "types": [
-    "Industrial"
-  ],
-  "investmentType": "Owner/User",
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "606 NW Lamonta Rd",
-      "city": "Prineville",
-      "county": "Crook County",
-      "state": {
-        "code": "OR",
-        "name": "Oregon"
-      },
-      "zip": "97754",
-      "latitude": 44.33854782257441,
-      "longitude": -120.88660370549526,
-      "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1647286/oregon-28-acres-heavy-industrial"
 }
 {
   "id": 1662436,
@@ -1828,6 +1828,49 @@
   "propertyUrl": "https://www.crexi.com/properties/1470041/colorado-287-27-road-units-1-5-developable-land-for-sale"
 }
 {
+  "id": 1145218,
+  "name": "Eaton Park - Commissary Kitchen",
+  "description": "Fully Built out Commissary Kitchen with large walk-in, 12' hood and mezzanine and second unit.",
+  "thumbnailUrl": "https://images.crexi.com/assets/1145218/dc9da6f200204f95ae7d0e3b7f5034a2_716x444.jpg",
+  "urlSlug": "arizona-eaton-park",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/12993/e718917e7e454660ba0ceb34e367d04a_150x100_resize.jpg",
+  "brokerageName": "SVN | Desert Commercial Advisors",
+  "activatedOn": "2023-05-22T22:00:50.806Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 30,
+  "showCountdownAsDate": false,
+  "askingPrice": 1500000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-30T17:50:41.6Z",
+  "numberOfImages": 30,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": true,
+  "hasFlyer": false,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "7900 N 70th Ave",
+      "city": "Glendale",
+      "county": "Maricopa County",
+      "state": {
+        "code": "AZ",
+        "name": "Arizona"
+      },
+      "zip": "85303",
+      "latitude": 33.5514948,
+      "longitude": -112.2101716,
+      "fullAddress": "7900 N 70th Ave, Glendale, Maricopa County, AZ 85303"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1145218/arizona-eaton-park"
+}
+{
   "id": 1643870,
   "name": "Collins Drive",
   "description": "Land",
@@ -1871,47 +1914,45 @@
   "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
 }
 {
-  "id": 1145218,
-  "name": "Eaton Park - Commissary Kitchen",
-  "description": "Fully Built out Commissary Kitchen with large walk-in, 12' hood and mezzanine and second unit.",
-  "thumbnailUrl": "https://images.crexi.com/assets/1145218/dc9da6f200204f95ae7d0e3b7f5034a2_716x444.jpg",
-  "urlSlug": "arizona-eaton-park",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/12993/e718917e7e454660ba0ceb34e367d04a_150x100_resize.jpg",
-  "brokerageName": "SVN | Desert Commercial Advisors",
-  "activatedOn": "2023-05-22T22:00:50.806Z",
+  "id": 1517295,
+  "name": "Ringe Land",
+  "description": "Industrial | 1,700 SF. M-1",
+  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
+  "urlSlug": "nevada-ringe-land",
+  "brokerageName": "Sandra L. Fink & Associates Inc",
+  "activatedOn": "2024-04-23T18:53:19.6Z",
   "isInOpportunityZone": false,
   "hasVideo": false,
-  "numberOfGalleryItems": 30,
+  "numberOfGalleryItems": 7,
+  "pricePerAcreLand": "$0/Acre",
   "showCountdownAsDate": false,
-  "askingPrice": 1500000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-09-30T17:50:41.6Z",
-  "numberOfImages": 30,
+  "updatedOn": "2024-08-13T18:36:48.764Z",
+  "numberOfImages": 7,
   "types": [
     "Industrial"
   ],
-  "investmentType": "Owner/User",
   "hasOM": true,
-  "hasFlyer": false,
+  "hasFlyer": true,
   "status": "On-Market",
   "hasVirtualTour": false,
   "locations": [
     {
-      "address": "7900 N 70th Ave",
-      "city": "Glendale",
-      "county": "Maricopa County",
+      "address": "2929 Ringe Ln",
+      "city": "Las Vegas",
+      "county": "Clark County",
       "state": {
-        "code": "AZ",
-        "name": "Arizona"
+        "code": "NV",
+        "name": "Nevada"
       },
-      "zip": "85303",
-      "latitude": 33.5514948,
-      "longitude": -112.2101716,
-      "fullAddress": "7900 N 70th Ave, Glendale, Maricopa County, AZ 85303"
+      "zip": "89156",
+      "latitude": 36.213209,
+      "longitude": -115.060594,
+      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
     }
   ],
   "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1145218/arizona-eaton-park"
+  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
 }
 {
   "id": 1510168,
@@ -1957,51 +1998,10 @@
   "propertyUrl": "https://www.crexi.com/properties/1510168/arizona-625-miller-valley-road"
 }
 {
-  "id": 1517295,
-  "name": "Ringe Land",
-  "description": "Industrial | 1,700 SF. M-1",
-  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
-  "urlSlug": "nevada-ringe-land",
-  "brokerageName": "Sandra L. Fink & Associates Inc",
-  "activatedOn": "2024-04-23T18:53:19.6Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 7,
-  "pricePerAcreLand": "$0/Acre",
-  "showCountdownAsDate": false,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-13T18:36:48.764Z",
-  "numberOfImages": 7,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": true,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "2929 Ringe Ln",
-      "city": "Las Vegas",
-      "county": "Clark County",
-      "state": {
-        "code": "NV",
-        "name": "Nevada"
-      },
-      "zip": "89156",
-      "latitude": 36.213209,
-      "longitude": -115.060594,
-      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
-}
-{
   "id": 1582316,
   "name": "1400 Kaster St",
   "description": "Industrial | 12,100 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1582316/406a9b28f44544d5994eadeb72f2709a_716x444.jpg",
+  "thumbnailUrl": "https://images.crexi.com/assets/1582316/b72ecb482ad0426d8b6aa7c74997691e_716x444.jpg",
   "urlSlug": "oregon-1400-kaster-st-st",
   "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/132325/5c6112a915d547d88c4519ef741c9d2f_150x100_resize.jpg",
   "brokerageName": "Keller Williams Sunset Corridor",
@@ -2010,14 +2010,14 @@
   "hasVideo": false,
   "numberOfGalleryItems": 31,
   "showCountdownAsDate": false,
-  "askingPrice": 2950000,
+  "askingPrice": 2690000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-08-26T06:58:53.328Z",
+  "updatedOn": "2024-10-07T18:00:42.385Z",
   "numberOfImages": 31,
   "types": [
     "Industrial",
-    "Mixed Use",
-    "Land"
+    "Land",
+    "Mixed Use"
   ],
   "hasOM": false,
   "hasFlyer": true,
