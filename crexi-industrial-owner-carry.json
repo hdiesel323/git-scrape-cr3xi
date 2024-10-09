@@ -399,7 +399,7 @@
   "showCountdownAsDate": false,
   "askingPrice": 9250000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-09-26T18:31:27.573Z",
+  "updatedOn": "2024-10-09T05:41:44.417Z",
   "numberOfImages": 17,
   "types": [
     "Office",
@@ -685,48 +685,6 @@
   "propertyUrl": "https://www.crexi.com/properties/804694/oklahoma-311-se-11th-street"
 }
 {
-  "id": 1296394,
-  "name": "Terra Bella - Industrial - Parcel 2",
-  "description": "Industrial",
-  "thumbnailUrl": "https://images.crexi.com/assets/1296394/eff45890901a4cd783d113146650ed2c_716x444.jpg",
-  "urlSlug": "california-terra-bella---industrial---parcel-2",
-  "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
-  "brokerageName": "Lion Group Investments",
-  "activatedOn": "2023-10-21T23:26:06.587Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 1,
-  "showCountdownAsDate": false,
-  "askingPrice": 349900,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-23T17:00:06.676Z",
-  "numberOfImages": 1,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": true,
-  "hasFlyer": false,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "Parcel 2 - 23297 Ave 88",
-      "city": "Terra Bella",
-      "county": "Tulare County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "93270",
-      "latitude": 35.94938438078769,
-      "longitude": -119.05368745792565,
-      "fullAddress": "Parcel 2 - 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1296394/california-terra-bella---industrial---parcel-2"
-}
-{
   "id": 1553485,
   "name": "2965 Coleman Street",
   "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
@@ -767,6 +725,48 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1553485/nevada-2965-coleman-street"
+}
+{
+  "id": 1296394,
+  "name": "Terra Bella - Industrial - Parcel 2",
+  "description": "Industrial",
+  "thumbnailUrl": "https://images.crexi.com/assets/1296394/eff45890901a4cd783d113146650ed2c_716x444.jpg",
+  "urlSlug": "california-terra-bella---industrial---parcel-2",
+  "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
+  "brokerageName": "Lion Group Investments",
+  "activatedOn": "2023-10-21T23:26:06.587Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 1,
+  "showCountdownAsDate": false,
+  "askingPrice": 349900,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-23T17:00:06.676Z",
+  "numberOfImages": 1,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": true,
+  "hasFlyer": false,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "Parcel 2 - 23297 Ave 88",
+      "city": "Terra Bella",
+      "county": "Tulare County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "93270",
+      "latitude": 35.94938438078769,
+      "longitude": -119.05368745792565,
+      "fullAddress": "Parcel 2 - 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1296394/california-terra-bella---industrial---parcel-2"
 }
 {
   "id": 1606201,
@@ -953,7 +953,7 @@
   "showCountdownAsDate": false,
   "askingPrice": 2500000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-10-01T15:20:04.622Z",
+  "updatedOn": "2024-10-08T20:57:40.717Z",
   "numberOfImages": 12,
   "types": [
     "Industrial",
@@ -1914,47 +1914,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
 }
 {
-  "id": 1517295,
-  "name": "Ringe Land",
-  "description": "Industrial | 1,700 SF. M-1",
-  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
-  "urlSlug": "nevada-ringe-land",
-  "brokerageName": "Sandra L. Fink & Associates Inc",
-  "activatedOn": "2024-04-23T18:53:19.6Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 7,
-  "pricePerAcreLand": "$0/Acre",
-  "showCountdownAsDate": false,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-13T18:36:48.764Z",
-  "numberOfImages": 7,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": true,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "2929 Ringe Ln",
-      "city": "Las Vegas",
-      "county": "Clark County",
-      "state": {
-        "code": "NV",
-        "name": "Nevada"
-      },
-      "zip": "89156",
-      "latitude": 36.213209,
-      "longitude": -115.060594,
-      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
-}
-{
   "id": 1510168,
   "name": "625 Miller Valley Road",
   "description": "Retail End User and/or Investment Opportunity",
@@ -1996,6 +1955,47 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1510168/arizona-625-miller-valley-road"
+}
+{
+  "id": 1517295,
+  "name": "Ringe Land",
+  "description": "Industrial | 1,700 SF. M-1",
+  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
+  "urlSlug": "nevada-ringe-land",
+  "brokerageName": "Sandra L. Fink & Associates Inc",
+  "activatedOn": "2024-04-23T18:53:19.6Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 7,
+  "pricePerAcreLand": "$0/Acre",
+  "showCountdownAsDate": false,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-13T18:36:48.764Z",
+  "numberOfImages": 7,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": true,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "2929 Ringe Ln",
+      "city": "Las Vegas",
+      "county": "Clark County",
+      "state": {
+        "code": "NV",
+        "name": "Nevada"
+      },
+      "zip": "89156",
+      "latitude": 36.213209,
+      "longitude": -115.060594,
+      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
 }
 {
   "id": 1582316,
