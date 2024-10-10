@@ -1155,6 +1155,49 @@
   "propertyUrl": "https://www.crexi.com/properties/1148554/montana-virginia-ln"
 }
 {
+  "id": 1534662,
+  "name": "926 Cypress Dr",
+  "description": "Industrial | 0 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1534662/a06c499811df4e6dab7bb7ce1e977e9c_716x444.jpg",
+  "urlSlug": "texas-926-cypress-dr",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/33847/6e185f8118a84d0bba181f9e3a5c6512_150x100_resize.jpg",
+  "brokerageName": "Coldwell Banker Lenhart Properties, Inc.",
+  "activatedOn": "2024-05-17T10:24:14.87Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 30,
+  "showCountdownAsDate": false,
+  "askingPrice": 535000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-10-09T10:23:49.642Z",
+  "numberOfImages": 30,
+  "types": [
+    "Industrial",
+    "Land"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "926 Cypress Dr",
+      "city": "Karnack",
+      "county": "Harrison",
+      "state": {
+        "code": "TX",
+        "name": "Texas"
+      },
+      "zip": "75661",
+      "latitude": 32.7174125,
+      "longitude": -94.1256206,
+      "fullAddress": "926 Cypress Dr, Karnack, Harrison, TX 75661"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1534662/texas-926-cypress-dr"
+}
+{
   "id": 1659274,
   "name": "2008 Commerce",
   "description": "New construction warehouse space 8960'",
@@ -1201,49 +1244,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1659274/oregon-2008-commerce"
 }
 {
-  "id": 1517776,
-  "name": "1150 W Broadway Street",
-  "description": "Industrial | 2,800 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1517776/8eabb9be64b6400b94ef0b4962d1df65_716x444.jpg",
-  "urlSlug": "california-1150-w-broadway-street",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/806/d39568a3d8e4438aab652ccdcfea1727_150x100_resize.jpg",
-  "brokerageName": "Coldwell Banker Campbell Realtors",
-  "activatedOn": "2024-04-24T10:35:31.034Z",
-  "isInOpportunityZone": true,
-  "hasVideo": false,
-  "numberOfGalleryItems": 63,
-  "showCountdownAsDate": false,
-  "askingPrice": 395000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-10-02T10:29:00.422Z",
-  "numberOfImages": 63,
-  "types": [
-    "Industrial",
-    "Land"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "1150 W Broadway Street",
-      "city": "Needles",
-      "county": "san Bernardino",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "92363",
-      "latitude": 34.8409747,
-      "longitude": -114.6086424,
-      "fullAddress": "1150 W Broadway Street, Needles, san Bernardino, CA 92363"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1517776/california-1150-w-broadway-street"
-}
-{
   "id": 1613407,
   "name": "4301 S Robinson Ave",
   "description": "Retail Industrial Warehouse for Sale",
@@ -1285,6 +1285,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1613407/oklahoma-retail-industrial-warehouse-for-sale"
+}
+{
+  "id": 1517776,
+  "name": "1150 W Broadway Street",
+  "description": "Industrial | 2,800 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1517776/8eabb9be64b6400b94ef0b4962d1df65_716x444.jpg",
+  "urlSlug": "california-1150-w-broadway-street",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/806/d39568a3d8e4438aab652ccdcfea1727_150x100_resize.jpg",
+  "brokerageName": "Coldwell Banker Campbell Realtors",
+  "activatedOn": "2024-04-24T10:35:31.034Z",
+  "isInOpportunityZone": true,
+  "hasVideo": false,
+  "numberOfGalleryItems": 63,
+  "showCountdownAsDate": false,
+  "askingPrice": 395000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-10-02T10:29:00.422Z",
+  "numberOfImages": 63,
+  "types": [
+    "Industrial",
+    "Land"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "1150 W Broadway Street",
+      "city": "Needles",
+      "county": "san Bernardino",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "92363",
+      "latitude": 34.8409747,
+      "longitude": -114.6086424,
+      "fullAddress": "1150 W Broadway Street, Needles, san Bernardino, CA 92363"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1517776/california-1150-w-broadway-street"
 }
 {
   "id": 1647286,
@@ -1914,6 +1957,47 @@
   "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
 }
 {
+  "id": 1517295,
+  "name": "Ringe Land",
+  "description": "Industrial | 1,700 SF. M-1",
+  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
+  "urlSlug": "nevada-ringe-land",
+  "brokerageName": "Sandra L. Fink & Associates Inc",
+  "activatedOn": "2024-04-23T18:53:19.6Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 7,
+  "pricePerAcreLand": "$0/Acre",
+  "showCountdownAsDate": false,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-13T18:36:48.764Z",
+  "numberOfImages": 7,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": true,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "2929 Ringe Ln",
+      "city": "Las Vegas",
+      "county": "Clark County",
+      "state": {
+        "code": "NV",
+        "name": "Nevada"
+      },
+      "zip": "89156",
+      "latitude": 36.213209,
+      "longitude": -115.060594,
+      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
+}
+{
   "id": 1510168,
   "name": "625 Miller Valley Road",
   "description": "Retail End User and/or Investment Opportunity",
@@ -1955,47 +2039,6 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1510168/arizona-625-miller-valley-road"
-}
-{
-  "id": 1517295,
-  "name": "Ringe Land",
-  "description": "Industrial | 1,700 SF. M-1",
-  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
-  "urlSlug": "nevada-ringe-land",
-  "brokerageName": "Sandra L. Fink & Associates Inc",
-  "activatedOn": "2024-04-23T18:53:19.6Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 7,
-  "pricePerAcreLand": "$0/Acre",
-  "showCountdownAsDate": false,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-13T18:36:48.764Z",
-  "numberOfImages": 7,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": true,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "2929 Ringe Ln",
-      "city": "Las Vegas",
-      "county": "Clark County",
-      "state": {
-        "code": "NV",
-        "name": "Nevada"
-      },
-      "zip": "89156",
-      "latitude": 36.213209,
-      "longitude": -115.060594,
-      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
 }
 {
   "id": 1582316,
