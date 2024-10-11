@@ -57,7 +57,7 @@
   "showCountdownAsDate": false,
   "askingPrice": 4600000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-10-07T18:58:46.846Z",
+  "updatedOn": "2024-10-10T21:25:52.729Z",
   "numberOfImages": 58,
   "types": [
     "Industrial"
@@ -685,48 +685,6 @@
   "propertyUrl": "https://www.crexi.com/properties/804694/oklahoma-311-se-11th-street"
 }
 {
-  "id": 1553485,
-  "name": "2965 Coleman Street",
-  "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
-  "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
-  "urlSlug": "nevada-2965-coleman-street",
-  "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
-  "brokerageName": "CBRE Las Vegas",
-  "activatedOn": "2024-06-05T23:32:05.482Z",
-  "isInOpportunityZone": true,
-  "hasVideo": false,
-  "numberOfGalleryItems": 8,
-  "showCountdownAsDate": false,
-  "askingPrice": 4000000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-06T22:32:40.041Z",
-  "numberOfImages": 8,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "2965 Coleman St",
-      "city": "North Las Vegas",
-      "county": "Clark County",
-      "state": {
-        "code": "NV",
-        "name": "Nevada"
-      },
-      "zip": "89032",
-      "latitude": 36.2133026,
-      "longitude": -115.1752522,
-      "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1553485/nevada-2965-coleman-street"
-}
-{
   "id": 1296394,
   "name": "Terra Bella - Industrial - Parcel 2",
   "description": "Industrial",
@@ -767,6 +725,48 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1296394/california-terra-bella---industrial---parcel-2"
+}
+{
+  "id": 1553485,
+  "name": "2965 Coleman Street",
+  "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
+  "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
+  "urlSlug": "nevada-2965-coleman-street",
+  "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
+  "brokerageName": "CBRE Las Vegas",
+  "activatedOn": "2024-06-05T23:32:05.482Z",
+  "isInOpportunityZone": true,
+  "hasVideo": false,
+  "numberOfGalleryItems": 8,
+  "showCountdownAsDate": false,
+  "askingPrice": 4000000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-06T22:32:40.041Z",
+  "numberOfImages": 8,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "2965 Coleman St",
+      "city": "North Las Vegas",
+      "county": "Clark County",
+      "state": {
+        "code": "NV",
+        "name": "Nevada"
+      },
+      "zip": "89032",
+      "latitude": 36.2133026,
+      "longitude": -115.1752522,
+      "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1553485/nevada-2965-coleman-street"
 }
 {
   "id": 1606201,
@@ -940,51 +940,6 @@
   "propertyUrl": "https://www.crexi.com/properties/343566/colorado-1865-1877-s-acoma-street"
 }
 {
-  "id": 1677482,
-  "name": "2860 E Hwy 68",
-  "description": "Industrial",
-  "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
-  "urlSlug": "arizona-2860-e-hwy-68",
-  "brokerageName": "Sondgeroth Real Estate Group",
-  "activatedOn": "2024-09-28T07:12:36.559Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 12,
-  "showCountdownAsDate": false,
-  "askingPrice": 2500000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-10-08T20:57:40.717Z",
-  "numberOfImages": 12,
-  "types": [
-    "Industrial",
-    "Mixed Use",
-    "Self Storage",
-    "Special Purpose",
-    "Business for Sale"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "2860 E Hwy 68",
-      "city": "Bullhead City",
-      "county": "Mohave County",
-      "state": {
-        "code": "AZ",
-        "name": "Arizona"
-      },
-      "zip": "86429",
-      "latitude": 35.1854421,
-      "longitude": -114.4839227,
-      "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1677482/arizona-2860-e-hwy-68"
-}
-{
   "id": 1533426,
   "name": "3870-3880 Elm Street",
   "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
@@ -1069,6 +1024,51 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1581599/arizona-1055-empire-dr"
+}
+{
+  "id": 1677482,
+  "name": "2860 E Hwy 68",
+  "description": "Industrial",
+  "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
+  "urlSlug": "arizona-2860-e-hwy-68",
+  "brokerageName": "Sondgeroth Real Estate Group",
+  "activatedOn": "2024-09-28T07:12:36.559Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 12,
+  "showCountdownAsDate": false,
+  "askingPrice": 2500000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-10-08T20:57:40.717Z",
+  "numberOfImages": 12,
+  "types": [
+    "Industrial",
+    "Mixed Use",
+    "Self Storage",
+    "Special Purpose",
+    "Business for Sale"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "2860 E Hwy 68",
+      "city": "Bullhead City",
+      "county": "Mohave County",
+      "state": {
+        "code": "AZ",
+        "name": "Arizona"
+      },
+      "zip": "86429",
+      "latitude": 35.1854421,
+      "longitude": -114.4839227,
+      "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1677482/arizona-2860-e-hwy-68"
 }
 {
   "id": 969147,
@@ -1914,49 +1914,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1145218/arizona-eaton-park"
 }
 {
-  "id": 1643870,
-  "name": "Collins Drive",
-  "description": "Land",
-  "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
-  "urlSlug": "california-collins-drive",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-  "activatedOn": "2024-08-13T10:03:18.061Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 26,
-  "showCountdownAsDate": false,
-  "askingPrice": 649000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-19T10:02:26.223Z",
-  "numberOfImages": 26,
-  "types": [
-    "Land",
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "Collins Drive",
-      "city": "Auburn",
-      "county": "Placer County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "95603",
-      "latitude": 38.9057643,
-      "longitude": -121.086736,
-      "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
-}
-{
   "id": 1517295,
   "name": "Ringe Land",
   "description": "Industrial | 1,700 SF. M-1",
@@ -2039,6 +1996,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1510168/arizona-625-miller-valley-road"
+}
+{
+  "id": 1643870,
+  "name": "Collins Drive",
+  "description": "Land",
+  "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
+  "urlSlug": "california-collins-drive",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+  "activatedOn": "2024-08-13T10:03:18.061Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 26,
+  "showCountdownAsDate": false,
+  "askingPrice": 649000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-19T10:02:26.223Z",
+  "numberOfImages": 26,
+  "types": [
+    "Land",
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "Collins Drive",
+      "city": "Auburn",
+      "county": "Placer County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "95603",
+      "latitude": 38.9057643,
+      "longitude": -121.086736,
+      "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
 }
 {
   "id": 1582316,
