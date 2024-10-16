@@ -212,50 +212,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1208952/idaho-12870-go-way-ave-tyhee-industrial-park"
 }
 {
-  "id": 1325344,
-  "name": "11860 Kemper Road 7",
-  "description": "Special Purpose | 1,350 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
-  "urlSlug": "california-11860-kemper-road-7",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-  "activatedOn": "2024-08-31T10:03:09.905Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 8,
-  "showCountdownAsDate": false,
-  "askingPrice": 500000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-06T10:19:51.619Z",
-  "numberOfImages": 8,
-  "types": [
-    "Special Purpose",
-    "Industrial",
-    "Land"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "11860 Kemper Road 7",
-      "city": "Auburn",
-      "county": "Placer County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "95603",
-      "latitude": 38.9307359,
-      "longitude": -121.0915371,
-      "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1325344/california-11860-kemper-road-7"
-}
-{
   "id": 1325345,
   "name": "11860 Kemper Road 8",
   "description": "Special Purpose | 1,483 SF",
@@ -298,6 +254,50 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1325345/california-11860-kemper-road-8"
+}
+{
+  "id": 1325344,
+  "name": "11860 Kemper Road 7",
+  "description": "Special Purpose | 1,350 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
+  "urlSlug": "california-11860-kemper-road-7",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+  "activatedOn": "2024-08-31T10:03:09.905Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 8,
+  "showCountdownAsDate": false,
+  "askingPrice": 500000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-06T10:19:51.619Z",
+  "numberOfImages": 8,
+  "types": [
+    "Special Purpose",
+    "Industrial",
+    "Land"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "11860 Kemper Road 7",
+      "city": "Auburn",
+      "county": "Placer County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "95603",
+      "latitude": 38.9307359,
+      "longitude": -121.0915371,
+      "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1325344/california-11860-kemper-road-7"
 }
 {
   "id": 793663,
@@ -685,48 +685,6 @@
   "propertyUrl": "https://www.crexi.com/properties/804694/oklahoma-311-se-11th-street"
 }
 {
-  "id": 1553485,
-  "name": "2965 Coleman Street",
-  "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
-  "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
-  "urlSlug": "nevada-2965-coleman-street",
-  "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
-  "brokerageName": "CBRE Las Vegas",
-  "activatedOn": "2024-06-05T23:32:05.482Z",
-  "isInOpportunityZone": true,
-  "hasVideo": false,
-  "numberOfGalleryItems": 8,
-  "showCountdownAsDate": false,
-  "askingPrice": 4000000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-06T22:32:40.041Z",
-  "numberOfImages": 8,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "2965 Coleman St",
-      "city": "North Las Vegas",
-      "county": "Clark County",
-      "state": {
-        "code": "NV",
-        "name": "Nevada"
-      },
-      "zip": "89032",
-      "latitude": 36.2133026,
-      "longitude": -115.1752522,
-      "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1553485/nevada-2965-coleman-street"
-}
-{
   "id": 1296394,
   "name": "Terra Bella - Industrial - Parcel 2",
   "description": "Industrial",
@@ -769,47 +727,46 @@
   "propertyUrl": "https://www.crexi.com/properties/1296394/california-terra-bella---industrial---parcel-2"
 }
 {
-  "id": 1094534,
-  "name": "3895 E 45th Ave",
-  "description": "Industrial | 3,840 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
-  "urlSlug": "colorado-3895-e-45th-ave",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
-  "brokerageName": "Unique Properties, Inc",
-  "activatedOn": "2023-04-10T21:23:43.81Z",
-  "isInOpportunityZone": false,
+  "id": 1553485,
+  "name": "2965 Coleman Street",
+  "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
+  "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
+  "urlSlug": "nevada-2965-coleman-street",
+  "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
+  "brokerageName": "CBRE Las Vegas",
+  "activatedOn": "2024-06-05T23:32:05.482Z",
+  "isInOpportunityZone": true,
   "hasVideo": false,
   "numberOfGalleryItems": 8,
   "showCountdownAsDate": false,
-  "askingPrice": 949000,
+  "askingPrice": 4000000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-09-23T20:34:11.632Z",
+  "updatedOn": "2024-09-06T22:32:40.041Z",
   "numberOfImages": 8,
   "types": [
     "Industrial"
   ],
-  "investmentType": "Owner/User",
   "hasOM": false,
   "hasFlyer": true,
   "status": "On-Market",
   "hasVirtualTour": false,
   "locations": [
     {
-      "address": "3895 E 45th Ave",
-      "city": "Denver",
-      "county": "Denver County",
+      "address": "2965 Coleman St",
+      "city": "North Las Vegas",
+      "county": "Clark County",
       "state": {
-        "code": "CO",
-        "name": "Colorado"
+        "code": "NV",
+        "name": "Nevada"
       },
-      "zip": "80216",
-      "latitude": 39.77889341,
-      "longitude": -104.94227107,
-      "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
+      "zip": "89032",
+      "latitude": 36.2133026,
+      "longitude": -115.1752522,
+      "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
     }
   ],
   "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1094534/colorado-3895-e-45th-ave"
+  "propertyUrl": "https://www.crexi.com/properties/1553485/nevada-2965-coleman-street"
 }
 {
   "id": 1606201,
@@ -853,6 +810,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1606201/texas-4802-derrick-drive"
+}
+{
+  "id": 1094534,
+  "name": "3895 E 45th Ave",
+  "description": "Industrial | 3,840 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
+  "urlSlug": "colorado-3895-e-45th-ave",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
+  "brokerageName": "Unique Properties, Inc",
+  "activatedOn": "2023-04-10T21:23:43.81Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 8,
+  "showCountdownAsDate": false,
+  "askingPrice": 949000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-23T20:34:11.632Z",
+  "numberOfImages": 8,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "3895 E 45th Ave",
+      "city": "Denver",
+      "county": "Denver County",
+      "state": {
+        "code": "CO",
+        "name": "Colorado"
+      },
+      "zip": "80216",
+      "latitude": 39.77889341,
+      "longitude": -104.94227107,
+      "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1094534/colorado-3895-e-45th-ave"
 }
 {
   "id": 754547,
@@ -985,6 +985,51 @@
   "propertyUrl": "https://www.crexi.com/properties/343566/colorado-1865-1877-s-acoma-street"
 }
 {
+  "id": 1677482,
+  "name": "2860 E Hwy 68",
+  "description": "Industrial",
+  "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
+  "urlSlug": "arizona-2860-e-hwy-68",
+  "brokerageName": "Sondgeroth Real Estate Group",
+  "activatedOn": "2024-09-28T07:12:36.559Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 12,
+  "showCountdownAsDate": false,
+  "askingPrice": 2500000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-10-08T20:57:40.717Z",
+  "numberOfImages": 12,
+  "types": [
+    "Industrial",
+    "Mixed Use",
+    "Self Storage",
+    "Special Purpose",
+    "Business for Sale"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "2860 E Hwy 68",
+      "city": "Bullhead City",
+      "county": "Mohave County",
+      "state": {
+        "code": "AZ",
+        "name": "Arizona"
+      },
+      "zip": "86429",
+      "latitude": 35.1854421,
+      "longitude": -114.4839227,
+      "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1677482/arizona-2860-e-hwy-68"
+}
+{
   "id": 1533426,
   "name": "3870-3880 Elm Street",
   "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
@@ -1071,51 +1116,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1581599/arizona-1055-empire-dr"
 }
 {
-  "id": 1677482,
-  "name": "2860 E Hwy 68",
-  "description": "Industrial",
-  "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
-  "urlSlug": "arizona-2860-e-hwy-68",
-  "brokerageName": "Sondgeroth Real Estate Group",
-  "activatedOn": "2024-09-28T07:12:36.559Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 12,
-  "showCountdownAsDate": false,
-  "askingPrice": 2500000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-10-08T20:57:40.717Z",
-  "numberOfImages": 12,
-  "types": [
-    "Industrial",
-    "Mixed Use",
-    "Self Storage",
-    "Special Purpose",
-    "Business for Sale"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "2860 E Hwy 68",
-      "city": "Bullhead City",
-      "county": "Mohave County",
-      "state": {
-        "code": "AZ",
-        "name": "Arizona"
-      },
-      "zip": "86429",
-      "latitude": 35.1854421,
-      "longitude": -114.4839227,
-      "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1677482/arizona-2860-e-hwy-68"
-}
-{
   "id": 969147,
   "name": "146 Via Trevizio",
   "description": "Industrial | 9,458 SF",
@@ -1157,47 +1157,47 @@
   "propertyUrl": "https://www.crexi.com/properties/969147/california-corona-commons"
 }
 {
-  "id": 1534662,
-  "name": "926 Cypress Dr",
-  "description": "Industrial | 0 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1534662/a06c499811df4e6dab7bb7ce1e977e9c_716x444.jpg",
-  "urlSlug": "texas-926-cypress-dr",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/33847/6e185f8118a84d0bba181f9e3a5c6512_150x100_resize.jpg",
-  "brokerageName": "Coldwell Banker Lenhart Properties, Inc.",
-  "activatedOn": "2024-05-17T10:24:14.87Z",
+  "id": 863412,
+  "name": "Murphy Sheds",
+  "description": "Business and Inventory for sale no real estate, leased space for Wherehouse.",
+  "thumbnailUrl": "https://images.crexi.com/assets/863412/66c7fdb937f445aa96f774e1df422d4e_716x444.jpg",
+  "urlSlug": "south-dakota-murphy-sheds",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/28033/a47422d81a6344f7869d1a7d44e82eae_150x100_resize.jpg",
+  "brokerageName": "The Real Estate Group Inc",
+  "activatedOn": "2022-08-30T17:18:12.605Z",
   "isInOpportunityZone": false,
   "hasVideo": false,
-  "numberOfGalleryItems": 30,
+  "numberOfGalleryItems": 17,
   "showCountdownAsDate": false,
-  "askingPrice": 535000,
+  "askingPrice": 449000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-10-14T10:13:48.479Z",
-  "numberOfImages": 30,
+  "updatedOn": "2024-10-15T15:21:38.628Z",
+  "numberOfImages": 17,
   "types": [
-    "Industrial",
-    "Land"
+    "Industrial"
   ],
+  "investmentType": "Stabilized",
   "hasOM": false,
   "hasFlyer": true,
   "status": "On-Market",
   "hasVirtualTour": false,
   "locations": [
     {
-      "address": "926 Cypress Dr",
-      "city": "Karnack",
-      "county": "Harrison",
+      "address": "2609 Bridge View Dr",
+      "city": "Rapid City",
+      "county": "Pennington County",
       "state": {
-        "code": "TX",
-        "name": "Texas"
+        "code": "SD",
+        "name": "South Dakota"
       },
-      "zip": "75661",
-      "latitude": 32.7174125,
-      "longitude": -94.1256206,
-      "fullAddress": "926 Cypress Dr, Karnack, Harrison, TX 75661"
+      "zip": "57701",
+      "latitude": 44.059383391505826,
+      "longitude": -103.1919271599054,
+      "fullAddress": "2609 Bridge View Dr, Rapid City, Pennington County, SD 57701"
     }
   ],
   "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1534662/texas-926-cypress-dr"
+  "propertyUrl": "https://www.crexi.com/properties/863412/south-dakota-murphy-sheds"
 }
 {
   "id": 1148554,
@@ -1241,6 +1241,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1148554/montana-virginia-ln"
+}
+{
+  "id": 1534662,
+  "name": "926 Cypress Dr",
+  "description": "Industrial | 0 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1534662/a06c499811df4e6dab7bb7ce1e977e9c_716x444.jpg",
+  "urlSlug": "texas-926-cypress-dr",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/33847/6e185f8118a84d0bba181f9e3a5c6512_150x100_resize.jpg",
+  "brokerageName": "Coldwell Banker Lenhart Properties, Inc.",
+  "activatedOn": "2024-05-17T10:24:14.87Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 30,
+  "showCountdownAsDate": false,
+  "askingPrice": 535000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-10-14T10:13:48.479Z",
+  "numberOfImages": 30,
+  "types": [
+    "Industrial",
+    "Land"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "926 Cypress Dr",
+      "city": "Karnack",
+      "county": "Harrison",
+      "state": {
+        "code": "TX",
+        "name": "Texas"
+      },
+      "zip": "75661",
+      "latitude": 32.7174125,
+      "longitude": -94.1256206,
+      "fullAddress": "926 Cypress Dr, Karnack, Harrison, TX 75661"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1534662/texas-926-cypress-dr"
 }
 {
   "id": 1659274,
@@ -1289,6 +1332,49 @@
   "propertyUrl": "https://www.crexi.com/properties/1659274/oregon-2008-commerce"
 }
 {
+  "id": 1613407,
+  "name": "4301 S Robinson Ave",
+  "description": "Retail Industrial Warehouse for Sale",
+  "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
+  "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
+  "brokerageName": "Equity Commercial Realty Advisors, LLC",
+  "activatedOn": "2024-07-15T22:34:23.6Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 16,
+  "showCountdownAsDate": false,
+  "askingPrice": 390000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-17T15:10:15.069Z",
+  "numberOfImages": 16,
+  "types": [
+    "Retail",
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "4301 S Robinson Ave",
+      "city": "Oklahoma City",
+      "county": "Oklahoma County",
+      "state": {
+        "code": "OK",
+        "name": "Oklahoma"
+      },
+      "zip": "73109",
+      "latitude": 35.42272311621037,
+      "longitude": -97.5162203952987,
+      "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1613407/oklahoma-retail-industrial-warehouse-for-sale"
+}
+{
   "id": 1517776,
   "name": "1150 W Broadway Street",
   "description": "Industrial | 2,800 SF",
@@ -1332,47 +1418,47 @@
   "propertyUrl": "https://www.crexi.com/properties/1517776/california-1150-w-broadway-street"
 }
 {
-  "id": 1613407,
-  "name": "4301 S Robinson Ave",
-  "description": "Retail Industrial Warehouse for Sale",
-  "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
-  "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
-  "brokerageName": "Equity Commercial Realty Advisors, LLC",
-  "activatedOn": "2024-07-15T22:34:23.6Z",
+  "id": 1647286,
+  "name": "28 Acres Heavy Industrial",
+  "description": "Largest Heavy Industrial property available in Crook County",
+  "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
+  "urlSlug": "oregon-28-acres-heavy-industrial",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
+  "brokerageName": "Crook County Properties LLC",
+  "activatedOn": "2024-08-16T16:53:24.034Z",
   "isInOpportunityZone": false,
   "hasVideo": false,
-  "numberOfGalleryItems": 16,
+  "numberOfGalleryItems": 9,
   "showCountdownAsDate": false,
-  "askingPrice": 390000,
+  "askingPrice": 980000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-09-17T15:10:15.069Z",
-  "numberOfImages": 16,
+  "updatedOn": "2024-09-17T16:09:53.312Z",
+  "numberOfImages": 9,
   "types": [
-    "Retail",
     "Industrial"
   ],
+  "investmentType": "Owner/User",
   "hasOM": false,
   "hasFlyer": true,
   "status": "On-Market",
   "hasVirtualTour": false,
   "locations": [
     {
-      "address": "4301 S Robinson Ave",
-      "city": "Oklahoma City",
-      "county": "Oklahoma County",
+      "address": "606 NW Lamonta Rd",
+      "city": "Prineville",
+      "county": "Crook County",
       "state": {
-        "code": "OK",
-        "name": "Oklahoma"
+        "code": "OR",
+        "name": "Oregon"
       },
-      "zip": "73109",
-      "latitude": 35.42272311621037,
-      "longitude": -97.5162203952987,
-      "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
+      "zip": "97754",
+      "latitude": 44.33854782257441,
+      "longitude": -120.88660370549526,
+      "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
     }
   ],
   "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1613407/oklahoma-retail-industrial-warehouse-for-sale"
+  "propertyUrl": "https://www.crexi.com/properties/1647286/oregon-28-acres-heavy-industrial"
 }
 {
   "id": 1560289,
@@ -1419,49 +1505,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1560289/california-1589-highway-33"
 }
 {
-  "id": 1647286,
-  "name": "28 Acres Heavy Industrial",
-  "description": "Largest Heavy Industrial property available in Crook County",
-  "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
-  "urlSlug": "oregon-28-acres-heavy-industrial",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
-  "brokerageName": "Crook County Properties LLC",
-  "activatedOn": "2024-08-16T16:53:24.034Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 9,
-  "showCountdownAsDate": false,
-  "askingPrice": 980000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-17T16:09:53.312Z",
-  "numberOfImages": 9,
-  "types": [
-    "Industrial"
-  ],
-  "investmentType": "Owner/User",
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "606 NW Lamonta Rd",
-      "city": "Prineville",
-      "county": "Crook County",
-      "state": {
-        "code": "OR",
-        "name": "Oregon"
-      },
-      "zip": "97754",
-      "latitude": 44.33854782257441,
-      "longitude": -120.88660370549526,
-      "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1647286/oregon-28-acres-heavy-industrial"
-}
-{
   "id": 1662436,
   "name": "5214 George Washington Memorial Highway",
   "description": "Pizza Business For Sale | 2,142 SF",
@@ -1503,6 +1546,48 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1662436/virginia-5214-george-washington-memorial-highway"
+}
+{
+  "id": 1641520,
+  "name": "Deer Valley 16th street Industrial",
+  "description": "2.5 Acre Industrial with 8,000 sqft building and yards.",
+  "thumbnailUrl": "https://images.crexi.com/assets/1641520/17d6526a8b0b4e3c823b0f1446271f95_716x444.jpg",
+  "urlSlug": "arizona-deer-valley-16th-street-industrial",
+  "activatedOn": "2024-08-09T14:32:04.693Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 37,
+  "pricePerSqFtLand": "$27.57/SF",
+  "showCountdownAsDate": false,
+  "askingPrice": 3000000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-10T23:28:50.114Z",
+  "numberOfImages": 37,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "21825 N 16th St",
+      "city": "Phoenix",
+      "county": "Maricopa County",
+      "state": {
+        "code": "AZ",
+        "name": "Arizona"
+      },
+      "zip": "85024",
+      "latitude": 33.6847539,
+      "longitude": -112.0445416,
+      "fullAddress": "21825 N 16th St, Phoenix, Maricopa County, AZ 85024"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1641520/arizona-deer-valley-16th-street-industrial"
 }
 {
   "id": 1555212,
@@ -1654,48 +1739,6 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1555212/oregon-proforma-for-lewis-street"
-}
-{
-  "id": 1641520,
-  "name": "Deer Valley 16th street Industrial",
-  "description": "2.5 Acre Industrial with 8,000 sqft building and yards.",
-  "thumbnailUrl": "https://images.crexi.com/assets/1641520/17d6526a8b0b4e3c823b0f1446271f95_716x444.jpg",
-  "urlSlug": "arizona-deer-valley-16th-street-industrial",
-  "activatedOn": "2024-08-09T14:32:04.693Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 37,
-  "pricePerSqFtLand": "$27.57/SF",
-  "showCountdownAsDate": false,
-  "askingPrice": 3000000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-10T23:28:50.114Z",
-  "numberOfImages": 37,
-  "types": [
-    "Industrial"
-  ],
-  "investmentType": "Owner/User",
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "21825 N 16th St",
-      "city": "Phoenix",
-      "county": "Maricopa County",
-      "state": {
-        "code": "AZ",
-        "name": "Arizona"
-      },
-      "zip": "85024",
-      "latitude": 33.6847539,
-      "longitude": -112.0445416,
-      "fullAddress": "21825 N 16th St, Phoenix, Maricopa County, AZ 85024"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1641520/arizona-deer-valley-16th-street-industrial"
 }
 {
   "id": 1468238,
@@ -1917,6 +1960,47 @@
   "propertyUrl": "https://www.crexi.com/properties/1145218/arizona-eaton-park"
 }
 {
+  "id": 1517295,
+  "name": "Ringe Land",
+  "description": "Industrial | 1,700 SF. M-1",
+  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
+  "urlSlug": "nevada-ringe-land",
+  "brokerageName": "Sandra L. Fink & Associates Inc",
+  "activatedOn": "2024-04-23T18:53:19.6Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 7,
+  "pricePerAcreLand": "$0/Acre",
+  "showCountdownAsDate": false,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-13T18:36:48.764Z",
+  "numberOfImages": 7,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": true,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "2929 Ringe Ln",
+      "city": "Las Vegas",
+      "county": "Clark County",
+      "state": {
+        "code": "NV",
+        "name": "Nevada"
+      },
+      "zip": "89156",
+      "latitude": 36.213209,
+      "longitude": -115.060594,
+      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
+}
+{
   "id": 1643870,
   "name": "Collins Drive",
   "description": "Land",
@@ -2001,47 +2085,6 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1510168/arizona-625-miller-valley-road"
-}
-{
-  "id": 1517295,
-  "name": "Ringe Land",
-  "description": "Industrial | 1,700 SF. M-1",
-  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
-  "urlSlug": "nevada-ringe-land",
-  "brokerageName": "Sandra L. Fink & Associates Inc",
-  "activatedOn": "2024-04-23T18:53:19.6Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 7,
-  "pricePerAcreLand": "$0/Acre",
-  "showCountdownAsDate": false,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-13T18:36:48.764Z",
-  "numberOfImages": 7,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": true,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "2929 Ringe Ln",
-      "city": "Las Vegas",
-      "county": "Clark County",
-      "state": {
-        "code": "NV",
-        "name": "Nevada"
-      },
-      "zip": "89156",
-      "latitude": 36.213209,
-      "longitude": -115.060594,
-      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
 }
 {
   "id": 1582316,
