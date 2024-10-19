@@ -212,50 +212,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1208952/idaho-12870-go-way-ave-tyhee-industrial-park"
 }
 {
-  "id": 1325345,
-  "name": "11860 Kemper Road 8",
-  "description": "Special Purpose | 1,483 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1325345/2d4c054d4b224cd385c548a433aace57_716x444.jpg",
-  "urlSlug": "california-11860-kemper-road-8",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-  "activatedOn": "2024-09-03T10:01:21.962Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 7,
-  "showCountdownAsDate": false,
-  "askingPrice": 420000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-06T10:19:51.221Z",
-  "numberOfImages": 7,
-  "types": [
-    "Special Purpose",
-    "Industrial",
-    "Land"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "11860 Kemper Road 8",
-      "city": "Auburn",
-      "county": "Placer County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "95603",
-      "latitude": 38.9308072,
-      "longitude": -121.0915333,
-      "fullAddress": "11860 Kemper Road 8, Auburn, Placer County, CA 95603"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1325345/california-11860-kemper-road-8"
-}
-{
   "id": 1325344,
   "name": "11860 Kemper Road 7",
   "description": "Special Purpose | 1,350 SF",
@@ -298,6 +254,50 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1325344/california-11860-kemper-road-7"
+}
+{
+  "id": 1325345,
+  "name": "11860 Kemper Road 8",
+  "description": "Special Purpose | 1,483 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1325345/2d4c054d4b224cd385c548a433aace57_716x444.jpg",
+  "urlSlug": "california-11860-kemper-road-8",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+  "activatedOn": "2024-09-03T10:01:21.962Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 7,
+  "showCountdownAsDate": false,
+  "askingPrice": 420000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-06T10:19:51.221Z",
+  "numberOfImages": 7,
+  "types": [
+    "Special Purpose",
+    "Industrial",
+    "Land"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "11860 Kemper Road 8",
+      "city": "Auburn",
+      "county": "Placer County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "95603",
+      "latitude": 38.9308072,
+      "longitude": -121.0915333,
+      "fullAddress": "11860 Kemper Road 8, Auburn, Placer County, CA 95603"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1325345/california-11860-kemper-road-8"
 }
 {
   "id": 793663,
@@ -384,6 +384,48 @@
   "propertyUrl": "https://www.crexi.com/properties/1296395/california-terra-bella---industrial---parcel-3"
 }
 {
+  "id": 1296398,
+  "name": "Terra Bella - Industrial - Parcel 4",
+  "description": "Industrial",
+  "thumbnailUrl": "https://images.crexi.com/assets/1296398/addabe7273b742ca9427be7f7cf4e18b_716x444.jpg",
+  "urlSlug": "california-terra-bella---industrial---parcel-4",
+  "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
+  "brokerageName": "Lion Group Investments",
+  "activatedOn": "2023-10-21T23:37:00.236Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 1,
+  "showCountdownAsDate": false,
+  "askingPrice": 199000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-23T17:00:06.748Z",
+  "numberOfImages": 1,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": true,
+  "hasFlyer": false,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "Parcel 4, 23297 Ave 88",
+      "city": "Terra Bella",
+      "county": "Tulare County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "93270",
+      "latitude": 35.94924245479436,
+      "longitude": -119.05368665888268,
+      "fullAddress": "Parcel 4, 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1296398/california-terra-bella---industrial---parcel-4"
+}
+{
   "id": 1006936,
   "name": "2950 W Catalina Dr",
   "description": "Office | 47,526 SF",
@@ -429,90 +471,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1006936/arizona-2950-w-catalina-dr"
 }
 {
-  "id": 1296398,
-  "name": "Terra Bella - Industrial - Parcel 4",
-  "description": "Industrial",
-  "thumbnailUrl": "https://images.crexi.com/assets/1296398/addabe7273b742ca9427be7f7cf4e18b_716x444.jpg",
-  "urlSlug": "california-terra-bella---industrial---parcel-4",
-  "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
-  "brokerageName": "Lion Group Investments",
-  "activatedOn": "2023-10-21T23:37:00.236Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 1,
-  "showCountdownAsDate": false,
-  "askingPrice": 199000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-23T17:00:06.748Z",
-  "numberOfImages": 1,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": true,
-  "hasFlyer": false,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "Parcel 4, 23297 Ave 88",
-      "city": "Terra Bella",
-      "county": "Tulare County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "93270",
-      "latitude": 35.94924245479436,
-      "longitude": -119.05368665888268,
-      "fullAddress": "Parcel 4, 23297 Ave 88, Terra Bella, Tulare County, CA 93270"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1296398/california-terra-bella---industrial---parcel-4"
-}
-{
-  "id": 1221526,
-  "name": "Terra Bella - Industrial - Parcel Hwy 65",
-  "description": "Industrial",
-  "thumbnailUrl": "https://images.crexi.com/assets/1221526/8e54cef31d76447d86362dca2cd94e10_716x444.jpg",
-  "urlSlug": "california-terra-bella---industrial---parcel-hwy-65",
-  "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
-  "brokerageName": "Lion Group Investments",
-  "activatedOn": "2023-10-21T23:14:59.78Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 4,
-  "showCountdownAsDate": false,
-  "askingPrice": 399900,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-07-22T23:58:32.94Z",
-  "numberOfImages": 4,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": true,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "23297 Ave 88",
-      "city": "Terra Bella",
-      "county": "Tulare County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "93270",
-      "latitude": 35.948185,
-      "longitude": -119.0521523,
-      "fullAddress": "23297 Ave 88, Terra Bella, Tulare County, CA 93270"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1221526/california-terra-bella---industrial---parcel-hwy-65"
-}
-{
   "id": 1584421,
   "name": "1626 S Court Street",
   "description": "Special Purpose | 1,560 SF",
@@ -555,6 +513,48 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1584421/california-1626-s-court-street"
+}
+{
+  "id": 1221526,
+  "name": "Terra Bella - Industrial - Parcel Hwy 65",
+  "description": "Industrial",
+  "thumbnailUrl": "https://images.crexi.com/assets/1221526/8e54cef31d76447d86362dca2cd94e10_716x444.jpg",
+  "urlSlug": "california-terra-bella---industrial---parcel-hwy-65",
+  "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
+  "brokerageName": "Lion Group Investments",
+  "activatedOn": "2023-10-21T23:14:59.78Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 4,
+  "showCountdownAsDate": false,
+  "askingPrice": 399900,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-07-22T23:58:32.94Z",
+  "numberOfImages": 4,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": true,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "23297 Ave 88",
+      "city": "Terra Bella",
+      "county": "Tulare County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "93270",
+      "latitude": 35.948185,
+      "longitude": -119.0521523,
+      "fullAddress": "23297 Ave 88, Terra Bella, Tulare County, CA 93270"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1221526/california-terra-bella---industrial---parcel-hwy-65"
 }
 {
   "id": 1580643,
@@ -769,49 +769,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1296394/california-terra-bella---industrial---parcel-2"
 }
 {
-  "id": 1606201,
-  "name": "4802 Derrick Drive",
-  "description": "Retail | 1,230 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1606201/5c5360b84eaa489fbd288bc0f55742af_716x444.jpg",
-  "urlSlug": "texas-4802-derrick-drive",
-  "brokerageName": "Whitten Real Estate",
-  "activatedOn": "2024-07-13T21:13:39.048Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 1,
-  "pricePerSqFtLand": "$3.21/SF",
-  "showCountdownAsDate": false,
-  "askingPrice": 329900,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-07-13T21:15:05.187Z",
-  "numberOfImages": 1,
-  "types": [
-    "Retail",
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "4802 Derrick Dr",
-      "city": "Abilene",
-      "county": "Taylor County",
-      "state": {
-        "code": "TX",
-        "name": "Texas"
-      },
-      "zip": "79601",
-      "latitude": 32.4392092,
-      "longitude": -99.6601407,
-      "fullAddress": "4802 Derrick Dr, Abilene, Taylor County, TX 79601"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1606201/texas-4802-derrick-drive"
-}
-{
   "id": 1094534,
   "name": "3895 E 45th Ave",
   "description": "Industrial | 3,840 SF",
@@ -853,6 +810,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1094534/colorado-3895-e-45th-ave"
+}
+{
+  "id": 1606201,
+  "name": "4802 Derrick Drive",
+  "description": "Retail | 1,230 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1606201/5c5360b84eaa489fbd288bc0f55742af_716x444.jpg",
+  "urlSlug": "texas-4802-derrick-drive",
+  "brokerageName": "Whitten Real Estate",
+  "activatedOn": "2024-07-13T21:13:39.048Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 1,
+  "pricePerSqFtLand": "$3.21/SF",
+  "showCountdownAsDate": false,
+  "askingPrice": 329900,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-07-13T21:15:05.187Z",
+  "numberOfImages": 1,
+  "types": [
+    "Retail",
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "4802 Derrick Dr",
+      "city": "Abilene",
+      "county": "Taylor County",
+      "state": {
+        "code": "TX",
+        "name": "Texas"
+      },
+      "zip": "79601",
+      "latitude": 32.4392092,
+      "longitude": -99.6601407,
+      "fullAddress": "4802 Derrick Dr, Abilene, Taylor County, TX 79601"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1606201/texas-4802-derrick-drive"
 }
 {
   "id": 754547,
@@ -985,51 +985,6 @@
   "propertyUrl": "https://www.crexi.com/properties/343566/colorado-1865-1877-s-acoma-street"
 }
 {
-  "id": 1677482,
-  "name": "2860 E Hwy 68",
-  "description": "Industrial",
-  "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
-  "urlSlug": "arizona-2860-e-hwy-68",
-  "brokerageName": "Sondgeroth Real Estate Group",
-  "activatedOn": "2024-09-28T07:12:36.559Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 12,
-  "showCountdownAsDate": false,
-  "askingPrice": 2500000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-10-08T20:57:40.717Z",
-  "numberOfImages": 12,
-  "types": [
-    "Industrial",
-    "Mixed Use",
-    "Self Storage",
-    "Special Purpose",
-    "Business for Sale"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "2860 E Hwy 68",
-      "city": "Bullhead City",
-      "county": "Mohave County",
-      "state": {
-        "code": "AZ",
-        "name": "Arizona"
-      },
-      "zip": "86429",
-      "latitude": 35.1854421,
-      "longitude": -114.4839227,
-      "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1677482/arizona-2860-e-hwy-68"
-}
-{
   "id": 1533426,
   "name": "3870-3880 Elm Street",
   "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
@@ -1116,6 +1071,51 @@
   "propertyUrl": "https://www.crexi.com/properties/1581599/arizona-1055-empire-dr"
 }
 {
+  "id": 1677482,
+  "name": "2860 E Hwy 68",
+  "description": "Industrial",
+  "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
+  "urlSlug": "arizona-2860-e-hwy-68",
+  "brokerageName": "Sondgeroth Real Estate Group",
+  "activatedOn": "2024-09-28T07:12:36.559Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 12,
+  "showCountdownAsDate": false,
+  "askingPrice": 2500000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-10-08T20:57:40.717Z",
+  "numberOfImages": 12,
+  "types": [
+    "Industrial",
+    "Mixed Use",
+    "Self Storage",
+    "Special Purpose",
+    "Business for Sale"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "2860 E Hwy 68",
+      "city": "Bullhead City",
+      "county": "Mohave County",
+      "state": {
+        "code": "AZ",
+        "name": "Arizona"
+      },
+      "zip": "86429",
+      "latitude": 35.1854421,
+      "longitude": -114.4839227,
+      "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1677482/arizona-2860-e-hwy-68"
+}
+{
   "id": 969147,
   "name": "146 Via Trevizio",
   "description": "Industrial | 9,458 SF",
@@ -1171,7 +1171,7 @@
   "showCountdownAsDate": false,
   "askingPrice": 449000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-10-15T15:21:38.628Z",
+  "updatedOn": "2024-10-18T16:31:48.34Z",
   "numberOfImages": 17,
   "types": [
     "Industrial"
@@ -1960,49 +1960,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1145218/arizona-eaton-park"
 }
 {
-  "id": 1643870,
-  "name": "Collins Drive",
-  "description": "Land",
-  "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
-  "urlSlug": "california-collins-drive",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-  "activatedOn": "2024-08-13T10:03:18.061Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 26,
-  "showCountdownAsDate": false,
-  "askingPrice": 649000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-19T10:02:26.223Z",
-  "numberOfImages": 26,
-  "types": [
-    "Land",
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "Collins Drive",
-      "city": "Auburn",
-      "county": "Placer County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "95603",
-      "latitude": 38.9057643,
-      "longitude": -121.086736,
-      "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
-}
-{
   "id": 1510168,
   "name": "625 Miller Valley Road",
   "description": "Retail End User and/or Investment Opportunity",
@@ -2087,6 +2044,49 @@
   "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
 }
 {
+  "id": 1643870,
+  "name": "Collins Drive",
+  "description": "Land",
+  "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
+  "urlSlug": "california-collins-drive",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+  "activatedOn": "2024-08-13T10:03:18.061Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 26,
+  "showCountdownAsDate": false,
+  "askingPrice": 649000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-19T10:02:26.223Z",
+  "numberOfImages": 26,
+  "types": [
+    "Land",
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "Collins Drive",
+      "city": "Auburn",
+      "county": "Placer County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "95603",
+      "latitude": 38.9057643,
+      "longitude": -121.086736,
+      "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
+}
+{
   "id": 1582316,
   "name": "1400 Kaster St",
   "description": "Industrial | 12,100 SF",
@@ -2169,7 +2169,7 @@
       "fullAddress": "58 N Mission Dr, Pueblo West, Pueblo County, CO 81007"
     }
   ],
-  "isNew": true,
+  "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1687325/colorado-58-n-mission-drive-pueblo-west-co-81007"
 }
 {
