@@ -212,50 +212,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1208952/idaho-12870-go-way-ave-tyhee-industrial-park"
 }
 {
-  "id": 1325344,
-  "name": "11860 Kemper Road 7",
-  "description": "Special Purpose | 1,350 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
-  "urlSlug": "california-11860-kemper-road-7",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-  "activatedOn": "2024-08-31T10:03:09.905Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 8,
-  "showCountdownAsDate": false,
-  "askingPrice": 500000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-06T10:19:51.619Z",
-  "numberOfImages": 8,
-  "types": [
-    "Special Purpose",
-    "Industrial",
-    "Land"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "11860 Kemper Road 7",
-      "city": "Auburn",
-      "county": "Placer County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "95603",
-      "latitude": 38.9307359,
-      "longitude": -121.0915371,
-      "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1325344/california-11860-kemper-road-7"
-}
-{
   "id": 1325345,
   "name": "11860 Kemper Road 8",
   "description": "Special Purpose | 1,483 SF",
@@ -298,6 +254,50 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1325345/california-11860-kemper-road-8"
+}
+{
+  "id": 1325344,
+  "name": "11860 Kemper Road 7",
+  "description": "Special Purpose | 1,350 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
+  "urlSlug": "california-11860-kemper-road-7",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+  "activatedOn": "2024-08-31T10:03:09.905Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 8,
+  "showCountdownAsDate": false,
+  "askingPrice": 500000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-06T10:19:51.619Z",
+  "numberOfImages": 8,
+  "types": [
+    "Special Purpose",
+    "Industrial",
+    "Land"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "11860 Kemper Road 7",
+      "city": "Auburn",
+      "county": "Placer County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "95603",
+      "latitude": 38.9307359,
+      "longitude": -121.0915371,
+      "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1325344/california-11860-kemper-road-7"
 }
 {
   "id": 793663,
@@ -471,48 +471,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1296398/california-terra-bella---industrial---parcel-4"
 }
 {
-  "id": 1221526,
-  "name": "Terra Bella - Industrial - Parcel Hwy 65",
-  "description": "Industrial",
-  "thumbnailUrl": "https://images.crexi.com/assets/1221526/8e54cef31d76447d86362dca2cd94e10_716x444.jpg",
-  "urlSlug": "california-terra-bella---industrial---parcel-hwy-65",
-  "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
-  "brokerageName": "Lion Group Investments",
-  "activatedOn": "2023-10-21T23:14:59.78Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 4,
-  "showCountdownAsDate": false,
-  "askingPrice": 399900,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-07-22T23:58:32.94Z",
-  "numberOfImages": 4,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": true,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "23297 Ave 88",
-      "city": "Terra Bella",
-      "county": "Tulare County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "93270",
-      "latitude": 35.948185,
-      "longitude": -119.0521523,
-      "fullAddress": "23297 Ave 88, Terra Bella, Tulare County, CA 93270"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1221526/california-terra-bella---industrial---parcel-hwy-65"
-}
-{
   "id": 1584421,
   "name": "1626 S Court Street",
   "description": "Special Purpose | 1,560 SF",
@@ -555,6 +513,48 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1584421/california-1626-s-court-street"
+}
+{
+  "id": 1221526,
+  "name": "Terra Bella - Industrial - Parcel Hwy 65",
+  "description": "Industrial",
+  "thumbnailUrl": "https://images.crexi.com/assets/1221526/8e54cef31d76447d86362dca2cd94e10_716x444.jpg",
+  "urlSlug": "california-terra-bella---industrial---parcel-hwy-65",
+  "brokerTeamLogoUrl": "https://images.crexi.com/broker-teams/2836/53aa861952274406bc803335232b4d5f_150x100_resize.jpg",
+  "brokerageName": "Lion Group Investments",
+  "activatedOn": "2023-10-21T23:14:59.78Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 4,
+  "showCountdownAsDate": false,
+  "askingPrice": 399900,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-07-22T23:58:32.94Z",
+  "numberOfImages": 4,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": true,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "23297 Ave 88",
+      "city": "Terra Bella",
+      "county": "Tulare County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "93270",
+      "latitude": 35.948185,
+      "longitude": -119.0521523,
+      "fullAddress": "23297 Ave 88, Terra Bella, Tulare County, CA 93270"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1221526/california-terra-bella---industrial---parcel-hwy-65"
 }
 {
   "id": 1580643,
@@ -769,49 +769,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1296394/california-terra-bella---industrial---parcel-2"
 }
 {
-  "id": 1094534,
-  "name": "3895 E 45th Ave",
-  "description": "Industrial | 3,840 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
-  "urlSlug": "colorado-3895-e-45th-ave",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
-  "brokerageName": "Unique Properties, Inc",
-  "activatedOn": "2023-04-10T21:23:43.81Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 8,
-  "showCountdownAsDate": false,
-  "askingPrice": 949000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-23T20:34:11.632Z",
-  "numberOfImages": 8,
-  "types": [
-    "Industrial"
-  ],
-  "investmentType": "Owner/User",
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "3895 E 45th Ave",
-      "city": "Denver",
-      "county": "Denver County",
-      "state": {
-        "code": "CO",
-        "name": "Colorado"
-      },
-      "zip": "80216",
-      "latitude": 39.77889341,
-      "longitude": -104.94227107,
-      "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1094534/colorado-3895-e-45th-ave"
-}
-{
   "id": 1606201,
   "name": "4802 Derrick Drive",
   "description": "Retail | 1,230 SF",
@@ -853,6 +810,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1606201/texas-4802-derrick-drive"
+}
+{
+  "id": 1094534,
+  "name": "3895 E 45th Ave",
+  "description": "Industrial | 3,840 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
+  "urlSlug": "colorado-3895-e-45th-ave",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
+  "brokerageName": "Unique Properties, Inc",
+  "activatedOn": "2023-04-10T21:23:43.81Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 8,
+  "showCountdownAsDate": false,
+  "askingPrice": 949000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-23T20:34:11.632Z",
+  "numberOfImages": 8,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "3895 E 45th Ave",
+      "city": "Denver",
+      "county": "Denver County",
+      "state": {
+        "code": "CO",
+        "name": "Colorado"
+      },
+      "zip": "80216",
+      "latitude": 39.77889341,
+      "longitude": -104.94227107,
+      "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1094534/colorado-3895-e-45th-ave"
 }
 {
   "id": 754547,
@@ -985,6 +985,51 @@
   "propertyUrl": "https://www.crexi.com/properties/343566/colorado-1865-1877-s-acoma-street"
 }
 {
+  "id": 1677482,
+  "name": "2860 E Hwy 68",
+  "description": "Industrial",
+  "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
+  "urlSlug": "arizona-2860-e-hwy-68",
+  "brokerageName": "Sondgeroth Real Estate Group",
+  "activatedOn": "2024-09-28T07:12:36.559Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 12,
+  "showCountdownAsDate": false,
+  "askingPrice": 2500000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-10-08T20:57:40.717Z",
+  "numberOfImages": 12,
+  "types": [
+    "Industrial",
+    "Mixed Use",
+    "Self Storage",
+    "Special Purpose",
+    "Business for Sale"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "2860 E Hwy 68",
+      "city": "Bullhead City",
+      "county": "Mohave County",
+      "state": {
+        "code": "AZ",
+        "name": "Arizona"
+      },
+      "zip": "86429",
+      "latitude": 35.1854421,
+      "longitude": -114.4839227,
+      "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1677482/arizona-2860-e-hwy-68"
+}
+{
   "id": 1533426,
   "name": "3870-3880 Elm Street",
   "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
@@ -1071,27 +1116,23 @@
   "propertyUrl": "https://www.crexi.com/properties/1581599/arizona-1055-empire-dr"
 }
 {
-  "id": 1677482,
-  "name": "2860 E Hwy 68",
-  "description": "Industrial",
-  "thumbnailUrl": "https://images.crexi.com/assets/1677482/02b18a9d884d4c3c8e1e7cae855f3a28_716x444.jpg",
-  "urlSlug": "arizona-2860-e-hwy-68",
-  "brokerageName": "Sondgeroth Real Estate Group",
-  "activatedOn": "2024-09-28T07:12:36.559Z",
+  "id": 969147,
+  "name": "146 Via Trevizio",
+  "description": "Industrial | 9,458 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/969147/8b69449beadd4e82b3795c12b6bdb5b3_716x444.jpg",
+  "urlSlug": "california-corona-commons",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/20792/1a8f27d7e9084830b7ade4fb7cf94e2a_150x100_resize.jpg",
+  "brokerageName": "KW Commercial Redlands",
+  "activatedOn": "2022-11-01T19:15:52.563Z",
   "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 12,
+  "hasVideo": true,
+  "numberOfGalleryItems": 14,
   "showCountdownAsDate": false,
-  "askingPrice": 2500000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-10-08T20:57:40.717Z",
-  "numberOfImages": 12,
+  "updatedOn": "2024-07-29T19:56:33.803Z",
+  "numberOfImages": 13,
   "types": [
-    "Industrial",
-    "Mixed Use",
-    "Self Storage",
-    "Special Purpose",
-    "Business for Sale"
+    "Industrial"
   ],
   "hasOM": false,
   "hasFlyer": true,
@@ -1099,21 +1140,21 @@
   "hasVirtualTour": false,
   "locations": [
     {
-      "address": "2860 E Hwy 68",
-      "city": "Bullhead City",
-      "county": "Mohave County",
+      "address": "146 Via Trevizio",
+      "city": "Corona",
+      "county": "Riverside County",
       "state": {
-        "code": "AZ",
-        "name": "Arizona"
+        "code": "CA",
+        "name": "California"
       },
-      "zip": "86429",
-      "latitude": 35.1854421,
-      "longitude": -114.4839227,
-      "fullAddress": "2860 E Hwy 68, Bullhead City, Mohave County, AZ 86429"
+      "zip": "92879",
+      "latitude": 33.875906,
+      "longitude": -117.5420174,
+      "fullAddress": "146 Via Trevizio, Corona, Riverside County, CA 92879"
     }
   ],
   "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1677482/arizona-2860-e-hwy-68"
+  "propertyUrl": "https://www.crexi.com/properties/969147/california-corona-commons"
 }
 {
   "id": 863412,
@@ -1157,47 +1198,6 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/863412/south-dakota-murphy-sheds"
-}
-{
-  "id": 969147,
-  "name": "146 Via Trevizio",
-  "description": "Industrial | 9,458 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/969147/8b69449beadd4e82b3795c12b6bdb5b3_716x444.jpg",
-  "urlSlug": "california-corona-commons",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/20792/1a8f27d7e9084830b7ade4fb7cf94e2a_150x100_resize.jpg",
-  "brokerageName": "KW Commercial Redlands",
-  "activatedOn": "2022-11-01T19:15:52.563Z",
-  "isInOpportunityZone": false,
-  "hasVideo": true,
-  "numberOfGalleryItems": 14,
-  "showCountdownAsDate": false,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-07-29T19:56:33.803Z",
-  "numberOfImages": 13,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "146 Via Trevizio",
-      "city": "Corona",
-      "county": "Riverside County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "92879",
-      "latitude": 33.875906,
-      "longitude": -117.5420174,
-      "fullAddress": "146 Via Trevizio, Corona, Riverside County, CA 92879"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/969147/california-corona-commons"
 }
 {
   "id": 1148554,
@@ -1418,6 +1418,49 @@
   "propertyUrl": "https://www.crexi.com/properties/1613407/oklahoma-retail-industrial-warehouse-for-sale"
 }
 {
+  "id": 1647286,
+  "name": "28 Acres Heavy Industrial",
+  "description": "Largest Heavy Industrial property available in Crook County",
+  "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
+  "urlSlug": "oregon-28-acres-heavy-industrial",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
+  "brokerageName": "Crook County Properties LLC",
+  "activatedOn": "2024-08-16T16:53:24.034Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 9,
+  "showCountdownAsDate": false,
+  "askingPrice": 980000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-17T16:09:53.312Z",
+  "numberOfImages": 9,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "606 NW Lamonta Rd",
+      "city": "Prineville",
+      "county": "Crook County",
+      "state": {
+        "code": "OR",
+        "name": "Oregon"
+      },
+      "zip": "97754",
+      "latitude": 44.33854782257441,
+      "longitude": -120.88660370549526,
+      "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1647286/oregon-28-acres-heavy-industrial"
+}
+{
   "id": 1560289,
   "name": "1589 Highway 33",
   "description": "Special Purpose | 6,800 SF",
@@ -1460,49 +1503,6 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1560289/california-1589-highway-33"
-}
-{
-  "id": 1647286,
-  "name": "28 Acres Heavy Industrial",
-  "description": "Largest Heavy Industrial property available in Crook County",
-  "thumbnailUrl": "https://images.crexi.com/assets/1647286/e62acbb7ac48400f86a043b7ff679f57_716x444.jpg",
-  "urlSlug": "oregon-28-acres-heavy-industrial",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/6626/17de14dd45e84ea4af462474ebfb100b_150x100_resize.jpg",
-  "brokerageName": "Crook County Properties LLC",
-  "activatedOn": "2024-08-16T16:53:24.034Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 9,
-  "showCountdownAsDate": false,
-  "askingPrice": 980000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-17T16:09:53.312Z",
-  "numberOfImages": 9,
-  "types": [
-    "Industrial"
-  ],
-  "investmentType": "Owner/User",
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "606 NW Lamonta Rd",
-      "city": "Prineville",
-      "county": "Crook County",
-      "state": {
-        "code": "OR",
-        "name": "Oregon"
-      },
-      "zip": "97754",
-      "latitude": 44.33854782257441,
-      "longitude": -120.88660370549526,
-      "fullAddress": "606 NW Lamonta Rd, Prineville, Crook County, OR 97754"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1647286/oregon-28-acres-heavy-industrial"
 }
 {
   "id": 1662436,
@@ -1960,47 +1960,45 @@
   "propertyUrl": "https://www.crexi.com/properties/1145218/arizona-eaton-park"
 }
 {
-  "id": 1643870,
-  "name": "Collins Drive",
-  "description": "Land",
-  "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
-  "urlSlug": "california-collins-drive",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-  "activatedOn": "2024-08-13T10:03:18.061Z",
+  "id": 1517295,
+  "name": "Ringe Land",
+  "description": "Industrial | 1,700 SF. M-1",
+  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
+  "urlSlug": "nevada-ringe-land",
+  "brokerageName": "Sandra L. Fink & Associates Inc",
+  "activatedOn": "2024-04-23T18:53:19.6Z",
   "isInOpportunityZone": false,
   "hasVideo": false,
-  "numberOfGalleryItems": 26,
+  "numberOfGalleryItems": 7,
+  "pricePerAcreLand": "$0/Acre",
   "showCountdownAsDate": false,
-  "askingPrice": 649000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-08-19T10:02:26.223Z",
-  "numberOfImages": 26,
+  "updatedOn": "2024-08-13T18:36:48.764Z",
+  "numberOfImages": 7,
   "types": [
-    "Land",
     "Industrial"
   ],
-  "hasOM": false,
+  "hasOM": true,
   "hasFlyer": true,
   "status": "On-Market",
   "hasVirtualTour": false,
   "locations": [
     {
-      "address": "Collins Drive",
-      "city": "Auburn",
-      "county": "Placer County",
+      "address": "2929 Ringe Ln",
+      "city": "Las Vegas",
+      "county": "Clark County",
       "state": {
-        "code": "CA",
-        "name": "California"
+        "code": "NV",
+        "name": "Nevada"
       },
-      "zip": "95603",
-      "latitude": 38.9057643,
-      "longitude": -121.086736,
-      "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
+      "zip": "89156",
+      "latitude": 36.213209,
+      "longitude": -115.060594,
+      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
     }
   ],
   "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
+  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
 }
 {
   "id": 1510168,
@@ -2046,45 +2044,47 @@
   "propertyUrl": "https://www.crexi.com/properties/1510168/arizona-625-miller-valley-road"
 }
 {
-  "id": 1517295,
-  "name": "Ringe Land",
-  "description": "Industrial | 1,700 SF. M-1",
-  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
-  "urlSlug": "nevada-ringe-land",
-  "brokerageName": "Sandra L. Fink & Associates Inc",
-  "activatedOn": "2024-04-23T18:53:19.6Z",
+  "id": 1643870,
+  "name": "Collins Drive",
+  "description": "Land",
+  "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
+  "urlSlug": "california-collins-drive",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+  "activatedOn": "2024-08-13T10:03:18.061Z",
   "isInOpportunityZone": false,
   "hasVideo": false,
-  "numberOfGalleryItems": 7,
-  "pricePerAcreLand": "$0/Acre",
+  "numberOfGalleryItems": 26,
   "showCountdownAsDate": false,
+  "askingPrice": 649000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-08-13T18:36:48.764Z",
-  "numberOfImages": 7,
+  "updatedOn": "2024-08-19T10:02:26.223Z",
+  "numberOfImages": 26,
   "types": [
+    "Land",
     "Industrial"
   ],
-  "hasOM": true,
+  "hasOM": false,
   "hasFlyer": true,
   "status": "On-Market",
   "hasVirtualTour": false,
   "locations": [
     {
-      "address": "2929 Ringe Ln",
-      "city": "Las Vegas",
-      "county": "Clark County",
+      "address": "Collins Drive",
+      "city": "Auburn",
+      "county": "Placer County",
       "state": {
-        "code": "NV",
-        "name": "Nevada"
+        "code": "CA",
+        "name": "California"
       },
-      "zip": "89156",
-      "latitude": 36.213209,
-      "longitude": -115.060594,
-      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
+      "zip": "95603",
+      "latitude": 38.9057643,
+      "longitude": -121.086736,
+      "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
     }
   ],
   "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
+  "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
 }
 {
   "id": 1582316,
