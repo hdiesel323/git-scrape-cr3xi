@@ -985,6 +985,49 @@
   "propertyUrl": "https://www.crexi.com/properties/343566/colorado-1865-1877-s-acoma-street"
 }
 {
+  "id": 1533426,
+  "name": "3870-3880 Elm Street",
+  "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
+  "thumbnailUrl": "https://images.crexi.com/assets/1533426/241c59a81fe3405eb47c685f7dfd8d8a_716x444.jpg",
+  "urlSlug": "colorado-3870-3880-elm-street",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14104/58cb1b8a5ea2489c8655a004cf71e66f_150x100_resize.jpg",
+  "brokerageName": "Colliers International Denver",
+  "activatedOn": "2024-05-16T14:24:06.221Z",
+  "isInOpportunityZone": true,
+  "hasVideo": false,
+  "numberOfGalleryItems": 1,
+  "showCountdownAsDate": false,
+  "askingPrice": 2590000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-07T16:02:13.841Z",
+  "numberOfImages": 1,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "3870 Elm St",
+      "city": "Denver",
+      "county": "Denver County",
+      "state": {
+        "code": "CO",
+        "name": "Colorado"
+      },
+      "zip": "80207",
+      "latitude": 39.77095622022864,
+      "longitude": -104.92935990171715,
+      "fullAddress": "3870 Elm St, Denver, Denver County, CO 80207"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1533426/colorado-3870-3880-elm-street"
+}
+{
   "id": 1677482,
   "name": "2860 E Hwy 68",
   "description": "Industrial",
@@ -1028,49 +1071,6 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1677482/arizona-2860-e-hwy-68"
-}
-{
-  "id": 1533426,
-  "name": "3870-3880 Elm Street",
-  "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
-  "thumbnailUrl": "https://images.crexi.com/assets/1533426/241c59a81fe3405eb47c685f7dfd8d8a_716x444.jpg",
-  "urlSlug": "colorado-3870-3880-elm-street",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14104/58cb1b8a5ea2489c8655a004cf71e66f_150x100_resize.jpg",
-  "brokerageName": "Colliers International Denver",
-  "activatedOn": "2024-05-16T14:24:06.221Z",
-  "isInOpportunityZone": true,
-  "hasVideo": false,
-  "numberOfGalleryItems": 1,
-  "showCountdownAsDate": false,
-  "askingPrice": 2590000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-07T16:02:13.841Z",
-  "numberOfImages": 1,
-  "types": [
-    "Industrial"
-  ],
-  "investmentType": "Owner/User",
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "3870 Elm St",
-      "city": "Denver",
-      "county": "Denver County",
-      "state": {
-        "code": "CO",
-        "name": "Colorado"
-      },
-      "zip": "80207",
-      "latitude": 39.77095622022864,
-      "longitude": -104.92935990171715,
-      "fullAddress": "3870 Elm St, Denver, Denver County, CO 80207"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1533426/colorado-3870-3880-elm-street"
 }
 {
   "id": 1581599,
