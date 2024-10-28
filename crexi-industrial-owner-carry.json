@@ -212,50 +212,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1208952/idaho-12870-go-way-ave-tyhee-industrial-park"
 }
 {
-  "id": 1325344,
-  "name": "11860 Kemper Road 7",
-  "description": "Special Purpose | 1,350 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
-  "urlSlug": "california-11860-kemper-road-7",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-  "activatedOn": "2024-08-31T10:03:09.905Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 8,
-  "showCountdownAsDate": false,
-  "askingPrice": 500000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-06T10:19:51.619Z",
-  "numberOfImages": 8,
-  "types": [
-    "Special Purpose",
-    "Industrial",
-    "Land"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "11860 Kemper Road 7",
-      "city": "Auburn",
-      "county": "Placer County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "95603",
-      "latitude": 38.9307359,
-      "longitude": -121.0915371,
-      "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1325344/california-11860-kemper-road-7"
-}
-{
   "id": 1325345,
   "name": "11860 Kemper Road 8",
   "description": "Special Purpose | 1,483 SF",
@@ -298,6 +254,50 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1325345/california-11860-kemper-road-8"
+}
+{
+  "id": 1325344,
+  "name": "11860 Kemper Road 7",
+  "description": "Special Purpose | 1,350 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
+  "urlSlug": "california-11860-kemper-road-7",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+  "activatedOn": "2024-08-31T10:03:09.905Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 8,
+  "showCountdownAsDate": false,
+  "askingPrice": 500000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-06T10:19:51.619Z",
+  "numberOfImages": 8,
+  "types": [
+    "Special Purpose",
+    "Industrial",
+    "Land"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "11860 Kemper Road 7",
+      "city": "Auburn",
+      "county": "Placer County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "95603",
+      "latitude": 38.9307359,
+      "longitude": -121.0915371,
+      "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1325344/california-11860-kemper-road-7"
 }
 {
   "id": 793663,
@@ -769,49 +769,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1296394/california-terra-bella---industrial---parcel-2"
 }
 {
-  "id": 1094534,
-  "name": "3895 E 45th Ave",
-  "description": "Industrial | 3,840 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
-  "urlSlug": "colorado-3895-e-45th-ave",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
-  "brokerageName": "Unique Properties, Inc",
-  "activatedOn": "2023-04-10T21:23:43.81Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 8,
-  "showCountdownAsDate": false,
-  "askingPrice": 949000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-23T20:34:11.632Z",
-  "numberOfImages": 8,
-  "types": [
-    "Industrial"
-  ],
-  "investmentType": "Owner/User",
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "3895 E 45th Ave",
-      "city": "Denver",
-      "county": "Denver County",
-      "state": {
-        "code": "CO",
-        "name": "Colorado"
-      },
-      "zip": "80216",
-      "latitude": 39.77889341,
-      "longitude": -104.94227107,
-      "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1094534/colorado-3895-e-45th-ave"
-}
-{
   "id": 1606201,
   "name": "4802 Derrick Drive",
   "description": "Retail | 1,230 SF",
@@ -853,6 +810,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1606201/texas-4802-derrick-drive"
+}
+{
+  "id": 1094534,
+  "name": "3895 E 45th Ave",
+  "description": "Industrial | 3,840 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
+  "urlSlug": "colorado-3895-e-45th-ave",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
+  "brokerageName": "Unique Properties, Inc",
+  "activatedOn": "2023-04-10T21:23:43.81Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 8,
+  "showCountdownAsDate": false,
+  "askingPrice": 949000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-23T20:34:11.632Z",
+  "numberOfImages": 8,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "3895 E 45th Ave",
+      "city": "Denver",
+      "county": "Denver County",
+      "state": {
+        "code": "CO",
+        "name": "Colorado"
+      },
+      "zip": "80216",
+      "latitude": 39.77889341,
+      "longitude": -104.94227107,
+      "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1094534/colorado-3895-e-45th-ave"
 }
 {
   "id": 754547,
@@ -985,49 +985,6 @@
   "propertyUrl": "https://www.crexi.com/properties/343566/colorado-1865-1877-s-acoma-street"
 }
 {
-  "id": 1533426,
-  "name": "3870-3880 Elm Street",
-  "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
-  "thumbnailUrl": "https://images.crexi.com/assets/1533426/241c59a81fe3405eb47c685f7dfd8d8a_716x444.jpg",
-  "urlSlug": "colorado-3870-3880-elm-street",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14104/58cb1b8a5ea2489c8655a004cf71e66f_150x100_resize.jpg",
-  "brokerageName": "Colliers International Denver",
-  "activatedOn": "2024-05-16T14:24:06.221Z",
-  "isInOpportunityZone": true,
-  "hasVideo": false,
-  "numberOfGalleryItems": 1,
-  "showCountdownAsDate": false,
-  "askingPrice": 2590000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-07T16:02:13.841Z",
-  "numberOfImages": 1,
-  "types": [
-    "Industrial"
-  ],
-  "investmentType": "Owner/User",
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "3870 Elm St",
-      "city": "Denver",
-      "county": "Denver County",
-      "state": {
-        "code": "CO",
-        "name": "Colorado"
-      },
-      "zip": "80207",
-      "latitude": 39.77095622022864,
-      "longitude": -104.92935990171715,
-      "fullAddress": "3870 Elm St, Denver, Denver County, CO 80207"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1533426/colorado-3870-3880-elm-street"
-}
-{
   "id": 1677482,
   "name": "2860 E Hwy 68",
   "description": "Industrial",
@@ -1071,6 +1028,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1677482/arizona-2860-e-hwy-68"
+}
+{
+  "id": 1533426,
+  "name": "3870-3880 Elm Street",
+  "description": "6,000 SF Leased 25% below market through March 2025; 8,500 SF Leased 20% below market on a MTM basis",
+  "thumbnailUrl": "https://images.crexi.com/assets/1533426/241c59a81fe3405eb47c685f7dfd8d8a_716x444.jpg",
+  "urlSlug": "colorado-3870-3880-elm-street",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/14104/58cb1b8a5ea2489c8655a004cf71e66f_150x100_resize.jpg",
+  "brokerageName": "Colliers International Denver",
+  "activatedOn": "2024-05-16T14:24:06.221Z",
+  "isInOpportunityZone": true,
+  "hasVideo": false,
+  "numberOfGalleryItems": 1,
+  "showCountdownAsDate": false,
+  "askingPrice": 2590000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-07T16:02:13.841Z",
+  "numberOfImages": 1,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "3870 Elm St",
+      "city": "Denver",
+      "county": "Denver County",
+      "state": {
+        "code": "CO",
+        "name": "Colorado"
+      },
+      "zip": "80207",
+      "latitude": 39.77095622022864,
+      "longitude": -104.92935990171715,
+      "fullAddress": "3870 Elm St, Denver, Denver County, CO 80207"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1533426/colorado-3870-3880-elm-street"
 }
 {
   "id": 1581599,
@@ -1286,6 +1286,49 @@
   "propertyUrl": "https://www.crexi.com/properties/1534662/texas-926-cypress-dr"
 }
 {
+  "id": 1613407,
+  "name": "4301 S Robinson Ave",
+  "description": "Retail Industrial Warehouse for Sale",
+  "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
+  "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
+  "brokerageName": "Equity Commercial Realty Advisors, LLC",
+  "activatedOn": "2024-07-15T22:34:23.6Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 16,
+  "showCountdownAsDate": false,
+  "askingPrice": 390000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-17T15:10:15.069Z",
+  "numberOfImages": 16,
+  "types": [
+    "Retail",
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "4301 S Robinson Ave",
+      "city": "Oklahoma City",
+      "county": "Oklahoma County",
+      "state": {
+        "code": "OK",
+        "name": "Oklahoma"
+      },
+      "zip": "73109",
+      "latitude": 35.42272311621037,
+      "longitude": -97.5162203952987,
+      "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1613407/oklahoma-retail-industrial-warehouse-for-sale"
+}
+{
   "id": 1659274,
   "name": "2008 Commerce",
   "description": "New construction warehouse space 8960'",
@@ -1373,49 +1416,6 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1517776/california-1150-w-broadway-street"
-}
-{
-  "id": 1613407,
-  "name": "4301 S Robinson Ave",
-  "description": "Retail Industrial Warehouse for Sale",
-  "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
-  "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
-  "brokerageName": "Equity Commercial Realty Advisors, LLC",
-  "activatedOn": "2024-07-15T22:34:23.6Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 16,
-  "showCountdownAsDate": false,
-  "askingPrice": 390000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-17T15:10:15.069Z",
-  "numberOfImages": 16,
-  "types": [
-    "Retail",
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "4301 S Robinson Ave",
-      "city": "Oklahoma City",
-      "county": "Oklahoma County",
-      "state": {
-        "code": "OK",
-        "name": "Oklahoma"
-      },
-      "zip": "73109",
-      "latitude": 35.42272311621037,
-      "longitude": -97.5162203952987,
-      "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1613407/oklahoma-retail-industrial-warehouse-for-sale"
 }
 {
   "id": 1560289,
@@ -1917,49 +1917,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1470041/colorado-287-27-road-units-1-5-developable-land-for-sale"
 }
 {
-  "id": 1643870,
-  "name": "Collins Drive",
-  "description": "Land",
-  "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
-  "urlSlug": "california-collins-drive",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-  "activatedOn": "2024-08-13T10:03:18.061Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 26,
-  "showCountdownAsDate": false,
-  "askingPrice": 649000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-19T10:02:26.223Z",
-  "numberOfImages": 26,
-  "types": [
-    "Land",
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "Collins Drive",
-      "city": "Auburn",
-      "county": "Placer County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "95603",
-      "latitude": 38.9057643,
-      "longitude": -121.086736,
-      "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
-}
-{
   "id": 1145218,
   "name": "Eaton Park - Commissary Kitchen",
   "description": "Fully Built out Commissary Kitchen with large walk-in, 12' hood and mezzanine and second unit.",
@@ -2001,6 +1958,47 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1145218/arizona-eaton-park"
+}
+{
+  "id": 1517295,
+  "name": "Ringe Land",
+  "description": "Industrial | 1,700 SF. M-1",
+  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
+  "urlSlug": "nevada-ringe-land",
+  "brokerageName": "Sandra L. Fink & Associates Inc",
+  "activatedOn": "2024-04-23T18:53:19.6Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 7,
+  "pricePerAcreLand": "$0/Acre",
+  "showCountdownAsDate": false,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-13T18:36:48.764Z",
+  "numberOfImages": 7,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": true,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "2929 Ringe Ln",
+      "city": "Las Vegas",
+      "county": "Clark County",
+      "state": {
+        "code": "NV",
+        "name": "Nevada"
+      },
+      "zip": "89156",
+      "latitude": 36.213209,
+      "longitude": -115.060594,
+      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
 }
 {
   "id": 1510168,
@@ -2046,45 +2044,47 @@
   "propertyUrl": "https://www.crexi.com/properties/1510168/arizona-625-miller-valley-road"
 }
 {
-  "id": 1517295,
-  "name": "Ringe Land",
-  "description": "Industrial | 1,700 SF. M-1",
-  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
-  "urlSlug": "nevada-ringe-land",
-  "brokerageName": "Sandra L. Fink & Associates Inc",
-  "activatedOn": "2024-04-23T18:53:19.6Z",
+  "id": 1643870,
+  "name": "Collins Drive",
+  "description": "Land",
+  "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
+  "urlSlug": "california-collins-drive",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+  "activatedOn": "2024-08-13T10:03:18.061Z",
   "isInOpportunityZone": false,
   "hasVideo": false,
-  "numberOfGalleryItems": 7,
-  "pricePerAcreLand": "$0/Acre",
+  "numberOfGalleryItems": 26,
   "showCountdownAsDate": false,
+  "askingPrice": 649000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-08-13T18:36:48.764Z",
-  "numberOfImages": 7,
+  "updatedOn": "2024-08-19T10:02:26.223Z",
+  "numberOfImages": 26,
   "types": [
+    "Land",
     "Industrial"
   ],
-  "hasOM": true,
+  "hasOM": false,
   "hasFlyer": true,
   "status": "On-Market",
   "hasVirtualTour": false,
   "locations": [
     {
-      "address": "2929 Ringe Ln",
-      "city": "Las Vegas",
-      "county": "Clark County",
+      "address": "Collins Drive",
+      "city": "Auburn",
+      "county": "Placer County",
       "state": {
-        "code": "NV",
-        "name": "Nevada"
+        "code": "CA",
+        "name": "California"
       },
-      "zip": "89156",
-      "latitude": 36.213209,
-      "longitude": -115.060594,
-      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
+      "zip": "95603",
+      "latitude": 38.9057643,
+      "longitude": -121.086736,
+      "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
     }
   ],
   "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
+  "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
 }
 {
   "id": 1582316,
