@@ -169,50 +169,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1208952/idaho-12870-go-way-ave-tyhee-industrial-park"
 }
 {
-  "id": 1325344,
-  "name": "11860 Kemper Road 7",
-  "description": "Special Purpose | 1,350 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
-  "urlSlug": "california-11860-kemper-road-7",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-  "activatedOn": "2024-08-31T10:03:09.905Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 8,
-  "showCountdownAsDate": false,
-  "askingPrice": 500000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-06T10:19:51.619Z",
-  "numberOfImages": 8,
-  "types": [
-    "Special Purpose",
-    "Industrial",
-    "Land"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "11860 Kemper Road 7",
-      "city": "Auburn",
-      "county": "Placer County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "95603",
-      "latitude": 38.9307359,
-      "longitude": -121.0915371,
-      "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1325344/california-11860-kemper-road-7"
-}
-{
   "id": 1325345,
   "name": "11860 Kemper Road 8",
   "description": "Special Purpose | 1,483 SF",
@@ -255,6 +211,50 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1325345/california-11860-kemper-road-8"
+}
+{
+  "id": 1325344,
+  "name": "11860 Kemper Road 7",
+  "description": "Special Purpose | 1,350 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1325344/3ea3ab06ae6e49829f7f216571a0fb12_716x444.jpg",
+  "urlSlug": "california-11860-kemper-road-7",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+  "activatedOn": "2024-08-31T10:03:09.905Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 8,
+  "showCountdownAsDate": false,
+  "askingPrice": 500000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-06T10:19:51.619Z",
+  "numberOfImages": 8,
+  "types": [
+    "Special Purpose",
+    "Industrial",
+    "Land"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "11860 Kemper Road 7",
+      "city": "Auburn",
+      "county": "Placer County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "95603",
+      "latitude": 38.9307359,
+      "longitude": -121.0915371,
+      "fullAddress": "11860 Kemper Road 7, Auburn, Placer County, CA 95603"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1325344/california-11860-kemper-road-7"
 }
 {
   "id": 793663,
@@ -642,48 +642,6 @@
   "propertyUrl": "https://www.crexi.com/properties/804694/oklahoma-311-se-11th-street"
 }
 {
-  "id": 1553485,
-  "name": "2965 Coleman Street",
-  "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
-  "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
-  "urlSlug": "nevada-2965-coleman-street",
-  "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
-  "brokerageName": "CBRE Las Vegas",
-  "activatedOn": "2024-06-05T23:32:05.482Z",
-  "isInOpportunityZone": true,
-  "hasVideo": false,
-  "numberOfGalleryItems": 8,
-  "showCountdownAsDate": false,
-  "askingPrice": 4000000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-06T22:32:40.041Z",
-  "numberOfImages": 8,
-  "types": [
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "2965 Coleman St",
-      "city": "North Las Vegas",
-      "county": "Clark County",
-      "state": {
-        "code": "NV",
-        "name": "Nevada"
-      },
-      "zip": "89032",
-      "latitude": 36.2133026,
-      "longitude": -115.1752522,
-      "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1553485/nevada-2965-coleman-street"
-}
-{
   "id": 1296394,
   "name": "Terra Bella - Industrial - Parcel 2",
   "description": "Industrial",
@@ -726,47 +684,46 @@
   "propertyUrl": "https://www.crexi.com/properties/1296394/california-terra-bella---industrial---parcel-2"
 }
 {
-  "id": 1094534,
-  "name": "3895 E 45th Ave",
-  "description": "Industrial | 3,840 SF",
-  "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
-  "urlSlug": "colorado-3895-e-45th-ave",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
-  "brokerageName": "Unique Properties, Inc",
-  "activatedOn": "2023-04-10T21:23:43.81Z",
-  "isInOpportunityZone": false,
+  "id": 1553485,
+  "name": "2965 Coleman Street",
+  "description": "FOR SALE | ±13,468 SF Industrial Building | Excellent Owner/User Opportunity!",
+  "thumbnailUrl": "https://images.crexi.com/assets/1553485/1961a927d17b4358a1c1433ebd036ec6_716x444.jpg",
+  "urlSlug": "nevada-2965-coleman-street",
+  "brokerTeamLogoUrl": "https://images.crexi.com/brokers/6532/92f14cf4429a4140ac972c1eb760b1c1_150x100_resize.jpg",
+  "brokerageName": "CBRE Las Vegas",
+  "activatedOn": "2024-06-05T23:32:05.482Z",
+  "isInOpportunityZone": true,
   "hasVideo": false,
   "numberOfGalleryItems": 8,
   "showCountdownAsDate": false,
-  "askingPrice": 949000,
+  "askingPrice": 4000000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-09-23T20:34:11.632Z",
+  "updatedOn": "2024-09-06T22:32:40.041Z",
   "numberOfImages": 8,
   "types": [
     "Industrial"
   ],
-  "investmentType": "Owner/User",
   "hasOM": false,
   "hasFlyer": true,
   "status": "On-Market",
   "hasVirtualTour": false,
   "locations": [
     {
-      "address": "3895 E 45th Ave",
-      "city": "Denver",
-      "county": "Denver County",
+      "address": "2965 Coleman St",
+      "city": "North Las Vegas",
+      "county": "Clark County",
       "state": {
-        "code": "CO",
-        "name": "Colorado"
+        "code": "NV",
+        "name": "Nevada"
       },
-      "zip": "80216",
-      "latitude": 39.77889341,
-      "longitude": -104.94227107,
-      "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
+      "zip": "89032",
+      "latitude": 36.2133026,
+      "longitude": -115.1752522,
+      "fullAddress": "2965 Coleman St, North Las Vegas, Clark County, NV 89032"
     }
   ],
   "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1094534/colorado-3895-e-45th-ave"
+  "propertyUrl": "https://www.crexi.com/properties/1553485/nevada-2965-coleman-street"
 }
 {
   "id": 1606201,
@@ -810,6 +767,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1606201/texas-4802-derrick-drive"
+}
+{
+  "id": 1094534,
+  "name": "3895 E 45th Ave",
+  "description": "Industrial | 3,840 SF",
+  "thumbnailUrl": "https://images.crexi.com/assets/1094534/ac05415e1a2a43319ef23ec7b7685148_716x444.jpg",
+  "urlSlug": "colorado-3895-e-45th-ave",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/2130/b3ac61bbf1274406a24dc8ea63972d1c_150x100_resize.jpg",
+  "brokerageName": "Unique Properties, Inc",
+  "activatedOn": "2023-04-10T21:23:43.81Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 8,
+  "showCountdownAsDate": false,
+  "askingPrice": 949000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-23T20:34:11.632Z",
+  "numberOfImages": 8,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "3895 E 45th Ave",
+      "city": "Denver",
+      "county": "Denver County",
+      "state": {
+        "code": "CO",
+        "name": "Colorado"
+      },
+      "zip": "80216",
+      "latitude": 39.77889341,
+      "longitude": -104.94227107,
+      "fullAddress": "3895 E 45th Ave, Denver, Denver County, CO 80216"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1094534/colorado-3895-e-45th-ave"
 }
 {
   "id": 754547,
@@ -1289,49 +1289,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1659274/oregon-2008-commerce"
 }
 {
-  "id": 1613407,
-  "name": "4301 S Robinson Ave",
-  "description": "Retail Industrial Warehouse for Sale",
-  "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
-  "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
-  "brokerageName": "Equity Commercial Realty Advisors, LLC",
-  "activatedOn": "2024-07-15T22:34:23.6Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 16,
-  "showCountdownAsDate": false,
-  "askingPrice": 390000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-09-17T15:10:15.069Z",
-  "numberOfImages": 16,
-  "types": [
-    "Retail",
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "4301 S Robinson Ave",
-      "city": "Oklahoma City",
-      "county": "Oklahoma County",
-      "state": {
-        "code": "OK",
-        "name": "Oklahoma"
-      },
-      "zip": "73109",
-      "latitude": 35.42272311621037,
-      "longitude": -97.5162203952987,
-      "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1613407/oklahoma-retail-industrial-warehouse-for-sale"
-}
-{
   "id": 1517776,
   "name": "1150 W Broadway Street",
   "description": "Industrial | 2,800 SF",
@@ -1373,6 +1330,49 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1517776/california-1150-w-broadway-street"
+}
+{
+  "id": 1613407,
+  "name": "4301 S Robinson Ave",
+  "description": "Retail Industrial Warehouse for Sale",
+  "thumbnailUrl": "https://images.crexi.com/assets/1613407/86976cdde95640428083d80713289648_716x444.jpg",
+  "urlSlug": "oklahoma-retail-industrial-warehouse-for-sale",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/72665/e16da68d849c48d2a143f20efeb10580_150x100_resize.jpg",
+  "brokerageName": "Equity Commercial Realty Advisors, LLC",
+  "activatedOn": "2024-07-15T22:34:23.6Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 16,
+  "showCountdownAsDate": false,
+  "askingPrice": 390000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-09-17T15:10:15.069Z",
+  "numberOfImages": 16,
+  "types": [
+    "Retail",
+    "Industrial"
+  ],
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "4301 S Robinson Ave",
+      "city": "Oklahoma City",
+      "county": "Oklahoma County",
+      "state": {
+        "code": "OK",
+        "name": "Oklahoma"
+      },
+      "zip": "73109",
+      "latitude": 35.42272311621037,
+      "longitude": -97.5162203952987,
+      "fullAddress": "4301 S Robinson Ave, Oklahoma City, Oklahoma County, OK 73109"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1613407/oklahoma-retail-industrial-warehouse-for-sale"
 }
 {
   "id": 1647286,
@@ -1741,6 +1741,91 @@
   "propertyUrl": "https://www.crexi.com/properties/1468238/california-catalpa-business-center"
 }
 {
+  "id": 1698186,
+  "name": "724 Paynter Ave.",
+  "description": "Industrial Property For Sale | Includes Cold Storage & Cell Phone Lease | Caldwell, ID",
+  "thumbnailUrl": "https://images.crexi.com/assets/1698186/a0913029edb2455db18bde647ab5552e_716x444.jpg",
+  "urlSlug": "idaho-724-paynter-ave",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/13522/45fb8ba6de3640a395fdebf150c58022_150x100_resize.jpg",
+  "brokerageName": "Lee & Associates Idaho, LLC",
+  "activatedOn": "2024-10-29T15:08:32.759Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 7,
+  "showCountdownAsDate": false,
+  "askingPrice": 1750000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-10-30T15:40:11.66Z",
+  "numberOfImages": 7,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": true,
+  "hasFlyer": false,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "724 Paynter Ave",
+      "city": "Caldwell",
+      "county": "Canyon County",
+      "state": {
+        "code": "ID",
+        "name": "Idaho"
+      },
+      "zip": "83605",
+      "latitude": 43.66337406,
+      "longitude": -116.69824209,
+      "fullAddress": "724 Paynter Ave, Caldwell, Canyon County, ID 83605"
+    }
+  ],
+  "isNew": true,
+  "propertyUrl": "https://www.crexi.com/properties/1698186/idaho-724-paynter-ave"
+}
+{
+  "id": 1696671,
+  "name": "Vallejo Auto Center Fire Sale",
+  "description": "Tremendous Value-Add Opportunity for Owner/User or Investor. Seller Financing Available!!",
+  "thumbnailUrl": "https://images.crexi.com/assets/1696671/5886c2b715e04474af1121a64e34d716_716x444.jpg",
+  "urlSlug": "california-vallejo-auto-center-fire-sale",
+  "brokerTeamLogoUrl": "https://images.crexi.com/brokers/1588770/4abb666749104a13864f0d1e871f19aa_150x100_resize.jpg",
+  "brokerageName": "Alexis McGee Group, Inc",
+  "activatedOn": "2024-10-26T01:34:03.182Z",
+  "isInOpportunityZone": true,
+  "hasVideo": true,
+  "numberOfGalleryItems": 16,
+  "showCountdownAsDate": false,
+  "askingPrice": 1400000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-10-30T00:35:06.998Z",
+  "numberOfImages": 14,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Value Add",
+  "hasOM": true,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "3424 Sonoma Blvd",
+      "city": "Vallejo",
+      "county": "Solano County",
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "94590",
+      "latitude": 38.1208414,
+      "longitude": -122.2540671,
+      "fullAddress": "3424 Sonoma Blvd, Vallejo, Solano County, CA 94590"
+    }
+  ],
+  "isNew": true,
+  "propertyUrl": "https://www.crexi.com/properties/1696671/california-vallejo-auto-center-fire-sale"
+}
+{
   "id": 1197161,
   "name": "Prime I-5 next to Pilot and Maverik",
   "description": "The Best of The Best in N. CA with I-5 Exposure; Affordable Development Site",
@@ -1756,7 +1841,7 @@
   "showCountdownAsDate": false,
   "askingPrice": 4113370,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-10-03T23:40:53.804Z",
+  "updatedOn": "2024-10-29T23:30:02.309Z",
   "numberOfImages": 17,
   "types": [
     "Hospitality",
@@ -1874,49 +1959,6 @@
   "propertyUrl": "https://www.crexi.com/properties/1470041/colorado-287-27-road-units-1-5-developable-land-for-sale"
 }
 {
-  "id": 1643870,
-  "name": "Collins Drive",
-  "description": "Land",
-  "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
-  "urlSlug": "california-collins-drive",
-  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
-  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
-  "activatedOn": "2024-08-13T10:03:18.061Z",
-  "isInOpportunityZone": false,
-  "hasVideo": false,
-  "numberOfGalleryItems": 26,
-  "showCountdownAsDate": false,
-  "askingPrice": 649000,
-  "userIsAssetOwner": false,
-  "updatedOn": "2024-08-19T10:02:26.223Z",
-  "numberOfImages": 26,
-  "types": [
-    "Land",
-    "Industrial"
-  ],
-  "hasOM": false,
-  "hasFlyer": true,
-  "status": "On-Market",
-  "hasVirtualTour": false,
-  "locations": [
-    {
-      "address": "Collins Drive",
-      "city": "Auburn",
-      "county": "Placer County",
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "95603",
-      "latitude": 38.9057643,
-      "longitude": -121.086736,
-      "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
-    }
-  ],
-  "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
-}
-{
   "id": 1145218,
   "name": "Eaton Park - Commissary Kitchen",
   "description": "Fully Built out Commissary Kitchen with large walk-in, 12' hood and mezzanine and second unit.",
@@ -1958,6 +2000,47 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1145218/arizona-eaton-park"
+}
+{
+  "id": 1517295,
+  "name": "Ringe Land",
+  "description": "Industrial | 1,700 SF. M-1",
+  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
+  "urlSlug": "nevada-ringe-land",
+  "brokerageName": "Sandra L. Fink & Associates Inc",
+  "activatedOn": "2024-04-23T18:53:19.6Z",
+  "isInOpportunityZone": false,
+  "hasVideo": false,
+  "numberOfGalleryItems": 7,
+  "pricePerAcreLand": "$0/Acre",
+  "showCountdownAsDate": false,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-08-13T18:36:48.764Z",
+  "numberOfImages": 7,
+  "types": [
+    "Industrial"
+  ],
+  "hasOM": true,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "2929 Ringe Ln",
+      "city": "Las Vegas",
+      "county": "Clark County",
+      "state": {
+        "code": "NV",
+        "name": "Nevada"
+      },
+      "zip": "89156",
+      "latitude": 36.213209,
+      "longitude": -115.060594,
+      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
+    }
+  ],
+  "isNew": false,
+  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
 }
 {
   "id": 1510168,
@@ -2003,45 +2086,47 @@
   "propertyUrl": "https://www.crexi.com/properties/1510168/arizona-625-miller-valley-road"
 }
 {
-  "id": 1517295,
-  "name": "Ringe Land",
-  "description": "Industrial | 1,700 SF. M-1",
-  "thumbnailUrl": "https://images.crexi.com/assets/1517295/44b450c0aba0490d9a1c77a0adb82813_716x444.jpg",
-  "urlSlug": "nevada-ringe-land",
-  "brokerageName": "Sandra L. Fink & Associates Inc",
-  "activatedOn": "2024-04-23T18:53:19.6Z",
+  "id": 1643870,
+  "name": "Collins Drive",
+  "description": "Land",
+  "thumbnailUrl": "https://images.crexi.com/assets/1643870/ba249ad5eada4cc2a255c860c9c0cd9a_716x444.jpg",
+  "urlSlug": "california-collins-drive",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/11668/8f4849fa46024191b96878f26b196b7c_150x100_resize.jpg",
+  "brokerageName": "CENTURY 21 Cornerstone Realty Auburn",
+  "activatedOn": "2024-08-13T10:03:18.061Z",
   "isInOpportunityZone": false,
   "hasVideo": false,
-  "numberOfGalleryItems": 7,
-  "pricePerAcreLand": "$0/Acre",
+  "numberOfGalleryItems": 26,
   "showCountdownAsDate": false,
+  "askingPrice": 649000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-08-13T18:36:48.764Z",
-  "numberOfImages": 7,
+  "updatedOn": "2024-08-19T10:02:26.223Z",
+  "numberOfImages": 26,
   "types": [
+    "Land",
     "Industrial"
   ],
-  "hasOM": true,
+  "hasOM": false,
   "hasFlyer": true,
   "status": "On-Market",
   "hasVirtualTour": false,
   "locations": [
     {
-      "address": "2929 Ringe Ln",
-      "city": "Las Vegas",
-      "county": "Clark County",
+      "address": "Collins Drive",
+      "city": "Auburn",
+      "county": "Placer County",
       "state": {
-        "code": "NV",
-        "name": "Nevada"
+        "code": "CA",
+        "name": "California"
       },
-      "zip": "89156",
-      "latitude": 36.213209,
-      "longitude": -115.060594,
-      "fullAddress": "2929 Ringe Ln, Las Vegas, Clark County, NV 89156"
+      "zip": "95603",
+      "latitude": 38.9057643,
+      "longitude": -121.086736,
+      "fullAddress": "Collins Drive, Auburn, Placer County, CA 95603"
     }
   ],
   "isNew": false,
-  "propertyUrl": "https://www.crexi.com/properties/1517295/nevada-ringe-land"
+  "propertyUrl": "https://www.crexi.com/properties/1643870/california-collins-drive"
 }
 {
   "id": 1582316,
@@ -2188,7 +2273,7 @@
   "showCountdownAsDate": false,
   "askingPrice": 1382000,
   "userIsAssetOwner": false,
-  "updatedOn": "2024-10-29T00:02:33.197Z",
+  "updatedOn": "2024-10-30T22:55:42.929Z",
   "numberOfImages": 4,
   "types": [
     "Industrial",
@@ -2260,4 +2345,47 @@
   ],
   "isNew": false,
   "propertyUrl": "https://www.crexi.com/properties/1669941/california-freestanding-retailofficeflex-building-salon-equipment"
+}
+{
+  "id": 1698202,
+  "name": "Freestanding ±10,505 Sf Building With 1/2 Acre Yard/Parking",
+  "description": "Las Vegas | Industrial For Sale | 10,505 SF | 1/2 AC YD/PKG | $3,495,000",
+  "thumbnailUrl": "https://images.crexi.com/assets/1698202/be1cd0ba8fc54d74bf010fb37be8d332_716x444.jpg",
+  "urlSlug": "nevada-freestanding-10505-sf-building-with-12-acre-yardparking",
+  "brokerTeamLogoUrl": "https://images.crexi.com/user-accounts/25876/7297f0fcb4284b4c84a74f59bf4a2496_150x100_resize.jpg",
+  "brokerageName": "Lee & Associates Reno",
+  "activatedOn": "2024-10-29T15:33:55.485Z",
+  "isInOpportunityZone": true,
+  "hasVideo": false,
+  "numberOfGalleryItems": 9,
+  "showCountdownAsDate": false,
+  "askingPrice": 3495000,
+  "userIsAssetOwner": false,
+  "updatedOn": "2024-10-29T15:33:55.485Z",
+  "numberOfImages": 9,
+  "types": [
+    "Industrial"
+  ],
+  "investmentType": "Owner/User",
+  "hasOM": false,
+  "hasFlyer": true,
+  "status": "On-Market",
+  "hasVirtualTour": false,
+  "locations": [
+    {
+      "address": "5035 Schuster St",
+      "city": "Las Vegas",
+      "county": "Clark County",
+      "state": {
+        "code": "NV",
+        "name": "Nevada"
+      },
+      "zip": "89118",
+      "latitude": 36.098357718661894,
+      "longitude": -115.19231990353464,
+      "fullAddress": "5035 Schuster St, Las Vegas, Clark County, NV 89118"
+    }
+  ],
+  "isNew": true,
+  "propertyUrl": "https://www.crexi.com/properties/1698202/nevada-freestanding-10505-sf-building-with-12-acre-yardparking"
 }
